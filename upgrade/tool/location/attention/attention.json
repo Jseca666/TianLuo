@@ -1,0 +1,41 @@
+{
+    "奖学金": {
+        "image_path": "location\\attention\\奖学金.png",
+        "coordinates": {
+            "top_left": [
+                239,
+                49
+            ],
+            "bottom_right": [
+                1042,
+                164
+            ]
+        }
+    },
+    "感叹号": {
+        "image_path": "location\\attention\\感叹号.png",
+        "coordinates": {
+            "top_left": [
+                76,
+                83
+            ],
+            "bottom_right": [
+                105,
+                109
+            ]
+        }
+    },
+    "小黄豆": {
+        "image_path": "location\\attention\\小黄豆.png",
+        "coordinates": {
+            "top_left": [
+                77,
+                161
+            ],
+            "bottom_right": [
+                116,
+                196
+            ]
+        }
+    }
+}

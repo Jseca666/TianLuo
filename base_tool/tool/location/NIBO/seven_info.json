@@ -1,0 +1,15 @@
+{
+    "vivo渠道服特别的退出标志": {
+        "image_path": "location\\..\\tool\\location\\NIBO\\vivo渠道服特别的退出标志.png",
+        "coordinates": {
+            "top_left": [
+                658,
+                371
+            ],
+            "bottom_right": [
+                862,
+                421
+            ]
+        }
+    }
+}

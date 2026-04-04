@@ -1,0 +1,717 @@
+{
+    "社团入口": {
+        "image_path": "location\\shetuan\\社团入口.png",
+        "coordinates": {
+            "top_left": [
+                933,
+                665
+            ],
+            "bottom_right": [
+                986,
+                699
+            ]
+        }
+    },
+    "委托派遣入口": {
+        "image_path": "location\\shetuan\\委托派遣入口.png",
+        "coordinates": {
+            "top_left": [
+                447,
+                385
+            ],
+            "bottom_right": [
+                576,
+                422
+            ]
+        }
+    },
+    "社团商店入口": {
+        "image_path": "location\\shetuan\\社团商店入口.png",
+        "coordinates": {
+            "top_left": [
+                494,
+                258
+            ],
+            "bottom_right": [
+                606,
+                285
+            ]
+        }
+    },
+    "社团大厅入口": {
+        "image_path": "location\\shetuan\\社团大厅入口.png",
+        "coordinates": {
+            "top_left": [
+                680,
+                220
+            ],
+            "bottom_right": [
+                781,
+                255
+            ]
+        }
+    },
+    "社团演训入口": {
+        "image_path": "location\\shetuan\\社团演训入口.png",
+        "coordinates": {
+            "top_left": [
+                628,
+                522
+            ],
+            "bottom_right": [
+                728,
+                556
+            ]
+        }
+    },
+    "核心工坊入口": {
+        "image_path": "location\\shetuan\\核心工坊入口.png",
+        "coordinates": {
+            "top_left": [
+                879,
+                195
+            ],
+            "bottom_right": [
+                968,
+                229
+            ]
+        }
+    },
+    "浇水入口": {
+        "image_path": "location\\shetuan\\浇水入口.png",
+        "coordinates": {
+            "top_left": [
+                1051,
+                256
+            ],
+            "bottom_right": [
+                1139,
+                287
+            ]
+        }
+    },
+    "社团活动入口": {
+        "image_path": "location\\shetuan\\社团活动入口.png",
+        "coordinates": {
+            "top_left": [
+                1128,
+                411
+            ],
+            "bottom_right": [
+                1226,
+                441
+            ]
+        }
+    },
+    "社团红包入口": {
+        "image_path": "location\\shetuan\\社团红包入口.png",
+        "coordinates": {
+            "top_left": [
+                1081,
+                654
+            ],
+            "bottom_right": [
+                1145,
+                685
+            ]
+        }
+    },
+    "社团活跃入口": {
+        "image_path": "location\\shetuan\\社团活跃入口.png",
+        "coordinates": {
+            "top_left": [
+                1208,
+                655
+            ],
+            "bottom_right": [
+                1264,
+                688
+            ]
+        }
+    },
+    "委托派遣按钮": {
+        "image_path": "location\\shetuan\\委托派遣按钮.png",
+        "coordinates": {
+            "top_left": [
+                206,
+                592
+            ],
+            "bottom_right": [
+                344,
+                633
+            ]
+        }
+    },
+    "委托派遣一键选人按钮": {
+        "image_path": "location\\shetuan\\委托派遣一键选人按钮.png",
+        "coordinates": {
+            "top_left": [
+                697,
+                537
+            ],
+            "bottom_right": [
+                835,
+                579
+            ]
+        }
+    },
+    "委托派遣选人完成出发": {
+        "image_path": "location\\shetuan\\委托派遣选人完成出发.png",
+        "coordinates": {
+            "top_left": [
+                887,
+                539
+            ],
+            "bottom_right": [
+                1007,
+                582
+            ]
+        }
+    },
+    "委托派遣出发后的求援按钮": {
+        "image_path": "location\\shetuan\\委托派遣出发后的求援按钮.png",
+        "coordinates": {
+            "top_left": [
+                96,
+                596
+            ],
+            "bottom_right": [
+                334,
+                631
+            ]
+        }
+    },
+    "社团派遣滑动区域": {
+        "image_path": "location\\shetuan\\社团派遣滑动区域.png",
+        "coordinates": {
+            "top_left": [
+                136,
+                143
+            ],
+            "bottom_right": [
+                1058,
+                355
+            ]
+        }
+    },
+    "挑战按钮": {
+        "image_path": "location\\shetuan\\挑战按钮.png",
+        "coordinates": {
+            "top_left": [
+                920,
+                594
+            ],
+            "bottom_right": [
+                973,
+                636
+            ]
+        }
+    },
+    "挑战剩余次数剩余区域": {
+        "image_path": "location\\shetuan\\挑战剩余次数剩余区域.png",
+        "coordinates": {
+            "top_left": [
+                977,
+                620
+            ],
+            "bottom_right": [
+                1181,
+                674
+            ]
+        }
+    },
+    "社团烟熏赠送挑战次数": {
+        "image_path": "location\\shetuan\\社团烟熏赠送挑战次数.png",
+        "coordinates": {
+            "top_left": [
+                1207,
+                249
+            ],
+            "bottom_right": [
+                1252,
+                308
+            ]
+        }
+    },
+    "赠送按钮": {
+        "image_path": "location\\shetuan\\赠送按钮.png",
+        "coordinates": {
+            "top_left": [
+                856,
+                220
+            ],
+            "bottom_right": [
+                1089,
+                271
+            ]
+        }
+    },
+    "社团烟熏赠送次数区域查询": {
+        "image_path": "location\\shetuan\\社团烟熏赠送次数区域查询.png",
+        "coordinates": {
+            "top_left": [
+                427,
+                589
+            ],
+            "bottom_right": [
+                646,
+                625
+            ]
+        }
+    },
+    "社团烟熏赠送入口": {
+        "image_path": "location\\shetuan\\社团烟熏赠送入口.png",
+        "coordinates": {
+            "top_left": [
+                1212,
+                251
+            ],
+            "bottom_right": [
+                1253,
+                309
+            ]
+        }
+    },
+    "跳过战斗": {
+        "image_path": "location\\zhuxian\\跳过战斗.png",
+        "coordinates": {
+            "top_left": [
+                1204,
+                23
+            ],
+            "bottom_right": [
+                1255,
+                73
+            ]
+        }
+    },
+    "刷龙胜利": {
+        "image_path": "location\\NIBO\\刷龙胜利.png",
+        "coordinates": {
+            "top_left": [
+                1161,
+                561
+            ],
+            "bottom_right": [
+                1227,
+                622
+            ]
+        }
+    },
+    "点击空白处关闭": {
+        "image_path": "location\\NIBO\\点击空白处关闭.png",
+        "coordinates": {
+            "top_left": [
+                577,
+                601
+            ],
+            "bottom_right": [
+                701,
+                630
+            ]
+        }
+    },
+    "浇灌按钮": {
+        "image_path": "location\\shetuan\\浇灌按钮.png",
+        "coordinates": {
+            "top_left": [
+                1028,
+                606
+            ],
+            "bottom_right": [
+                1197,
+                653
+            ]
+        }
+    },
+    "浇灌剩余次数区域": {
+        "image_path": "location\\shetuan\\浇灌剩余次数区域.png",
+        "coordinates": {
+            "top_left": [
+                712,
+                410
+            ],
+            "bottom_right": [
+                892,
+                442
+            ]
+        }
+    },
+    "浇灌按钮出现后的浇灌": {
+        "image_path": "location\\shetuan\\浇灌按钮出现后的浇灌.png",
+        "coordinates": {
+            "top_left": [
+                725,
+                450
+            ],
+            "bottom_right": [
+                877,
+                490
+            ]
+        }
+    },
+    "猛鬼来袭": {
+        "image_path": "location\\shetuan\\猛鬼来袭.png",
+        "coordinates": {
+            "top_left": [
+                477,
+                166
+            ],
+            "bottom_right": [
+                635,
+                357
+            ]
+        }
+    },
+    "猛鬼入侵全部领取": {
+        "image_path": "location\\shetuan\\猛鬼入侵全部领取.png",
+        "coordinates": {
+            "top_left": [
+                32,
+                572
+            ],
+            "bottom_right": [
+                203,
+                611
+            ]
+        }
+    },
+    "猛鬼入侵备战区域": {
+        "image_path": "location\\shetuan\\猛鬼入侵备战区域.png",
+        "coordinates": {
+            "top_left": [
+                1004,
+                357
+            ],
+            "bottom_right": [
+                1107,
+                456
+            ]
+        }
+    },
+    "猛鬼入侵挑战": {
+        "image_path": "location\\shetuan\\猛鬼入侵挑战.png",
+        "coordinates": {
+            "top_left": [
+                921,
+                539
+            ],
+            "bottom_right": [
+                1175,
+                575
+            ]
+        }
+    },
+    "猛鬼入侵挑战确认": {
+        "image_path": "location\\shetuan\\猛鬼入侵挑战确认.png",
+        "coordinates": {
+            "top_left": [
+                671,
+                410
+            ],
+            "bottom_right": [
+                849,
+                460
+            ]
+        }
+    },
+    "猛鬼入侵奖励入口": {
+        "image_path": "location\\shetuan\\猛鬼入侵奖励入口.png",
+        "coordinates": {
+            "top_left": [
+                1214,
+                168
+            ],
+            "bottom_right": [
+                1260,
+                224
+            ]
+        }
+    },
+    "猛鬼入侵奖励入口后领取": {
+        "image_path": "location\\shetuan\\猛鬼入侵奖励入口后领取.png",
+        "coordinates": {
+            "top_left": [
+                736,
+                245
+            ],
+            "bottom_right": [
+                878,
+                285
+            ]
+        }
+    },
+    "猛鬼入侵挑战完成标志": {
+        "image_path": "location\\shetuan\\猛鬼入侵挑战完成标志.png",
+        "coordinates": {
+            "top_left": [
+                1004,
+                532
+            ],
+            "bottom_right": [
+                1101,
+                589
+            ]
+        }
+    },
+    "大厅点赞": {
+        "image_path": "location\\shetuan\\大厅点赞.png",
+        "coordinates": {
+            "top_left": [
+                595,
+                275
+            ],
+            "bottom_right": [
+                622,
+                303
+            ]
+        }
+    },
+    "噩梦难度": {
+        "image_path": "location\\shetuan\\噩梦难度.png",
+        "coordinates": {
+            "top_left": [
+                1036,
+                471
+            ],
+            "bottom_right": [
+                1076,
+                520
+            ]
+        }
+    },
+    "困难难度": {
+        "image_path": "location\\shetuan\\困难难度.png",
+        "coordinates": {
+            "top_left": [
+                847,
+                467
+            ],
+            "bottom_right": [
+                891,
+                520
+            ]
+        }
+    },
+    "普通难度": {
+        "image_path": "location\\shetuan\\普通难度.png",
+        "coordinates": {
+            "top_left": [
+                665,
+                472
+            ],
+            "bottom_right": [
+                703,
+                517
+            ]
+        }
+    },
+    "轮回走廊战斗失败标志": {
+        "image_path": "location\\NIBO\\轮回走廊战斗失败标志.png",
+        "coordinates": {
+            "top_left": [
+                76,
+                502
+            ],
+            "bottom_right": [
+                179,
+                666
+            ]
+        }
+    },
+    "社团烟熏难度通过后的弹窗": {
+        "image_path": "location\\shetuan\\社团烟熏难度通过后的弹窗.png",
+        "coordinates": {
+            "top_left": [
+                504,
+                283
+            ],
+            "bottom_right": [
+                770,
+                365
+            ]
+        }
+    },
+    "取消难度通过选择": {
+        "image_path": "location\\shetuan\\取消难度通过选择.png",
+        "coordinates": {
+            "top_left": [
+                466,
+                410
+            ],
+            "bottom_right": [
+                577,
+                459
+            ]
+        }
+    },
+    "社团工坊免费打造": {
+        "image_path": "location\\shetuan\\社团工坊免费打造.png",
+        "coordinates": {
+            "top_left": [
+                757,
+                646
+            ],
+            "bottom_right": [
+                928,
+                687
+            ]
+        }
+    },
+    "社团红包进入区域": {
+        "image_path": "location\\shetuan\\社团红包进入区域.png",
+        "coordinates": {
+            "top_left": [
+                1044,
+                656
+            ],
+            "bottom_right": [
+                1136,
+                687
+            ]
+        }
+    },
+    "社团活跃进入区域": {
+        "image_path": "location\\shetuan\\社团活跃进入区域.png",
+        "coordinates": {
+            "top_left": [
+                1173,
+                653
+            ],
+            "bottom_right": [
+                1249,
+                685
+            ]
+        }
+    },
+    "社团红包发的模板": {
+        "image_path": "location\\shetuan\\社团红包发的模板.png",
+        "coordinates": {
+            "top_left": [
+                400,
+                122
+            ],
+            "bottom_right": [
+                478,
+                189
+            ]
+        }
+    },
+    "社团红包发放的确认": {
+        "image_path": "location\\shetuan\\社团红包发放的确认.png",
+        "coordinates": {
+            "top_left": [
+                605,
+                340
+            ],
+            "bottom_right": [
+                678,
+                419
+            ]
+        }
+    },
+    "社团红包发放完的领取": {
+        "image_path": "location\\shetuan\\社团红包发放完的领取.png",
+        "coordinates": {
+            "top_left": [
+                420,
+                192
+            ],
+            "bottom_right": [
+                477,
+                260
+            ]
+        }
+    },
+    "社团红包领取": {
+        "image_path": "location\\shetuan\\社团红包领取.png",
+        "coordinates": {
+            "top_left": [
+                560,
+                264
+            ],
+            "bottom_right": [
+                638,
+                339
+            ]
+        }
+    },
+    "社团烟熏失败标志": {
+        "image_path": "location\\shetuan\\社团烟熏失败标志.png",
+        "coordinates": {
+            "top_left": [
+                924,
+                553
+            ],
+            "bottom_right": [
+                1065,
+                587
+            ]
+        }
+    },
+    "社团红包剩余可以抢的次数": {
+        "image_path": "location\\shetuan\\社团红包剩余可以抢的次数.png",
+        "coordinates": {
+            "top_left": [
+                792,
+                556
+            ],
+            "bottom_right": [
+                922,
+                586
+            ]
+        }
+    },
+    "宝箱": {
+        "image_path": "location\\shetuan\\宝箱.png",
+        "coordinates": {
+            "top_left": [
+                58,
+                631
+            ],
+            "bottom_right": [
+                160,
+                664
+            ]
+        }
+    },
+    "章节里面的宝箱": {
+        "image_path": "location\\shetuan\\章节里面的宝箱.png",
+        "coordinates": {
+            "top_left": [
+                601,
+                303
+            ],
+            "bottom_right": [
+                684,
+                351
+            ]
+        }
+    },
+    "宝箱滑动区域": {
+        "image_path": "location\\shetuan\\宝箱滑动区域.png",
+        "coordinates": {
+            "top_left": [
+                527,
+                186
+            ],
+            "bottom_right": [
+                605,
+                459
+            ]
+        }
+    },
+    "小光点": {
+        "image_path": "location\\shetuan\\小光点.png",
+        "coordinates": {
+            "top_left": [
+                280,
+                139
+            ],
+            "bottom_right": [
+                311,
+                166
+            ]
+        }
+    }
+}

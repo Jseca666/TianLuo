@@ -1,0 +1,132 @@
+{
+    "标准数字1": {
+        "image_path": "location\\numbers\\标准数字1.png",
+        "coordinates": {
+            "top_left": [
+                504,
+                447
+            ],
+            "bottom_right": [
+                537,
+                483
+            ]
+        }
+    },
+    "标准数字2": {
+        "image_path": "location\\numbers\\标准数字2.png",
+        "coordinates": {
+            "top_left": [
+                287,
+                551
+            ],
+            "bottom_right": [
+                317,
+                583
+            ]
+        }
+    },
+    "标准数字4": {
+        "image_path": "location\\numbers\\标准数字4.png",
+        "coordinates": {
+            "top_left": [
+                511,
+                351
+            ],
+            "bottom_right": [
+                538,
+                382
+            ]
+        }
+    },
+    "标准数字5": {
+        "image_path": "location\\numbers\\标准数字5.png",
+        "coordinates": {
+            "top_left": [
+                621,
+                344
+            ],
+            "bottom_right": [
+                648,
+                381
+            ]
+        }
+    },
+    "标准数字8": {
+        "image_path": "location\\numbers\\标准数字8.png",
+        "coordinates": {
+            "top_left": [
+                841,
+                445
+            ],
+            "bottom_right": [
+                871,
+                481
+            ]
+        }
+    },
+    "标准数字9": {
+        "image_path": "location\\numbers\\标准数字9.png",
+        "coordinates": {
+            "top_left": [
+                737,
+                652
+            ],
+            "bottom_right": [
+                758,
+                681
+            ]
+        }
+    },
+    "标准数字6": {
+        "image_path": "location\\numbers\\标准数字6.png",
+        "coordinates": {
+            "top_left": [
+                623,
+                550
+            ],
+            "bottom_right": [
+                648,
+                581
+            ]
+        }
+    },
+    "标准数字3": {
+        "image_path": "location\\numbers\\标准数字3.png",
+        "coordinates": {
+            "top_left": [
+                625,
+                253
+            ],
+            "bottom_right": [
+                647,
+                279
+            ]
+        }
+    },
+    "标准数字7": {
+        "image_path": "location\\numbers\\标准数字7.png",
+        "coordinates": {
+            "top_left": [
+                291,
+                455
+            ],
+            "bottom_right": [
+                313,
+                480
+            ]
+        }
+    },
+    "标准数字0": {
+        "image_path": "location\\numbers\\标准数字0.png",
+        "coordinates": {
+            "top_left": [
+                523,
+                557
+            ],
+            "bottom_right": [
+                542,
+                584
+            ]
+        }
+    }
+}

@@ -1,0 +1,327 @@
+{
+    "竞技训练入口": {
+        "image_path": "location\\jingjichang\\竞技训练入口.png",
+        "coordinates": {
+            "top_left": [
+                1187,
+                203
+            ],
+            "bottom_right": [
+                1262,
+                272
+            ]
+        }
+    },
+    "竞技场入口": {
+        "image_path": "location\\jingjichang\\竞技场入口.png",
+        "coordinates": {
+            "top_left": [
+                94,
+                215
+            ],
+            "bottom_right": [
+                266,
+                548
+            ]
+        }
+    },
+    "学院风云入口": {
+        "image_path": "location\\jingjichang\\学院风云入口.png",
+        "coordinates": {
+            "top_left": [
+                396,
+                218
+            ],
+            "bottom_right": [
+                600,
+                551
+            ]
+        }
+    },
+    "锦标赛入口": {
+        "image_path": "location\\jingjichang\\锦标赛入口.png",
+        "coordinates": {
+            "top_left": [
+                683,
+                233
+            ],
+            "bottom_right": [
+                905,
+                549
+            ]
+        }
+    },
+    "王牌对决入口": {
+        "image_path": "location\\jingjichang\\王牌对决入口.png",
+        "coordinates": {
+            "top_left": [
+                994,
+                214
+            ],
+            "bottom_right": [
+                1225,
+                548
+            ]
+        }
+    },
+    "竞技场领取馈赠": {
+        "image_path": "location\\jingjichang\\竞技场领取馈赠.png",
+        "coordinates": {
+            "top_left": [
+                130,
+                489
+            ],
+            "bottom_right": [
+                235,
+                522
+            ]
+        }
+    },
+    "竞技场站五次": {
+        "image_path": "location\\jingjichang\\竞技场站五次.png",
+        "coordinates": {
+            "top_left": [
+                798,
+                589
+            ],
+            "bottom_right": [
+                855,
+                618
+            ]
+        }
+    },
+    "站五次后的确定": {
+        "image_path": "location\\jingjichang\\站五次后的确定.png",
+        "coordinates": {
+            "top_left": [
+                675,
+                537
+            ],
+            "bottom_right": [
+                873,
+                578
+            ]
+        }
+    },
+    "竞技场挑战券不足的弹窗": {
+        "image_path": "location\\jingjichang\\竞技场挑战券不足的弹窗.png",
+        "coordinates": {
+            "top_left": [
+                335,
+                207
+            ],
+            "bottom_right": [
+                938,
+                375
+            ]
+        }
+    },
+    "会长竞选点赞": {
+        "image_path": "location\\jingjichang\\会长竞选点赞.png",
+        "coordinates": {
+            "top_left": [
+                908,
+                475
+            ],
+            "bottom_right": [
+                1220,
+                602
+            ]
+        }
+    },
+    "学院风云排位赛奖励": {
+        "image_path": "location\\jingjichang\\学院风云排位赛奖励.png",
+        "coordinates": {
+            "top_left": [
+                412,
+                638
+            ],
+            "bottom_right": [
+                479,
+                671
+            ]
+        }
+    },
+    "锦标赛挑战标志": {
+        "image_path": "location\\jingjichang\\锦标赛挑战标志.png",
+        "coordinates": {
+            "top_left": [
+                495,
+                107
+            ],
+            "bottom_right": [
+                519,
+                133
+            ]
+        }
+    },
+    "锦标赛发起挑战": {
+        "image_path": "location\\jingjichang\\锦标赛发起挑战.png",
+        "coordinates": {
+            "top_left": [
+                544,
+                541
+            ],
+            "bottom_right": [
+                723,
+                578
+            ]
+        }
+    },
+    "跳过战斗": {
+        "image_path": "location\\Zhuangyuan\\跳过战斗.png",
+        "coordinates": {
+            "top_left": [
+                1204,
+                23
+            ],
+            "bottom_right": [
+                1255,
+                73
+            ]
+        }
+    },
+    "刷龙胜利": {
+        "image_path": "location\\NIBO\\刷龙胜利.png",
+        "coordinates": {
+            "top_left": [
+                1161,
+                561
+            ],
+            "bottom_right": [
+                1227,
+                622
+            ]
+        }
+    },
+    "点击空白处关闭": {
+        "image_path": "location\\NIBO\\点击空白处关闭.png",
+        "coordinates": {
+            "top_left": [
+                577,
+                601
+            ],
+            "bottom_right": [
+                701,
+                630
+            ]
+        }
+    },
+    "锦标赛内新任管理弹窗": {
+        "image_path": "location\\jingjichang\\锦标赛内新任管理弹窗.png",
+        "coordinates": {
+            "top_left": [
+                421,
+                121
+            ],
+            "bottom_right": [
+                883,
+                193
+            ]
+        }
+    },
+    "开始匹配": {
+        "image_path": "location\\jingjichang\\开始匹配.png",
+        "coordinates": {
+            "top_left": [
+                923,
+                633
+            ],
+            "bottom_right": [
+                1202,
+                678
+            ]
+        }
+    },
+    "排位赛总积分奖励": {
+        "image_path": "location\\jingjichang\\排位赛总积分奖励.png",
+        "coordinates": {
+            "top_left": [
+                131,
+                275
+            ],
+            "bottom_right": [
+                261,
+                310
+            ]
+        }
+    },
+    "排位赛段位奖励": {
+        "image_path": "location\\jingjichang\\排位赛段位奖励.png",
+        "coordinates": {
+            "top_left": [
+                131,
+                168
+            ],
+            "bottom_right": [
+                230,
+                201
+            ]
+        }
+    },
+    "排位赛每日奖励": {
+        "image_path": "location\\jingjichang\\排位赛每日奖励.png",
+        "coordinates": {
+            "top_left": [
+                131,
+                115
+            ],
+            "bottom_right": [
+                235,
+                148
+            ]
+        }
+    },
+    "排位赛奖励领取按钮": {
+        "image_path": "location\\jingjichang\\排位赛奖励领取按钮.png",
+        "coordinates": {
+            "top_left": [
+                1002,
+                197
+            ],
+            "bottom_right": [
+                1104,
+                229
+            ]
+        }
+    },
+    "学院风云排位赛入口": {
+        "image_path": "location\\jingjichang\\学院风云排位赛入口.png",
+        "coordinates": {
+            "top_left": [
+                1065,
+                389
+            ],
+            "bottom_right": [
+                1237,
+                447
+            ]
+        }
+    },
+    "会长竞选": {
+        "image_path": "location\\jingjichang\\会长竞选.png",
+        "coordinates": {
+            "top_left": [
+                898,
+                469
+            ],
+            "bottom_right": [
+                1088,
+                533
+            ]
+        }
+    },
+    "会长竞选点赞图标": {
+        "image_path": "location\\jingjichang\\会长竞选点赞图标.png",
+        "coordinates": {
+            "top_left": [
+                826,
+                312
+            ],
+            "bottom_right": [
+                855,
+                330
+            ]
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "任务": {
+        "image_path": "location\\areas\\任务.png",
+        "coordinates": {
+            "top_left": [
+                23,
+                186
+            ],
+            "bottom_right": [
+                59,
+                239
+            ]
+        }
+    },
+    "充值": {
+        "image_path": "location\\areas\\充值.png",
+        "coordinates": {
+            "top_left": [
+                24,
+                430
+            ],
+            "bottom_right": [
+                61,
+                483
+            ]
+        }
+    },
+    "商店": {
+        "image_path": "location\\areas\\商店.png",
+        "coordinates": {
+            "top_left": [
+                24,
+                509
+            ],
+            "bottom_right": [
+                58,
+                564
+            ]
+        }
+    },
+    "小队": {
+        "image_path": "location\\areas\\小队.png",
+        "coordinates": {
+            "top_left": [
+                726,
+                651
+            ],
+            "bottom_right": [
+                778,
+                698
+            ]
+        }
+    },
+    "支援": {
+        "image_path": "location\\areas\\支援.png",
+        "coordinates": {
+            "top_left": [
+                828,
+                653
+            ],
+            "bottom_right": [
+                879,
+                698
+            ]
+        }
+    },
+    "社团": {
+        "image_path": "location\\areas\\社团.png",
+        "coordinates": {
+            "top_left": [
+                931,
+                650
+            ],
+            "bottom_right": [
+                981,
+                698
+            ]
+        }
+    },
+    "庄园": {
+        "image_path": "location\\areas\\庄园.png",
+        "coordinates": {
+            "top_left": [
+                1032,
+                655
+            ],
+            "bottom_right": [
+                1081,
+                698
+            ]
+        }
+    },
+    "成就": {
+        "image_path": "location\\areas\\成就.png",
+        "coordinates": {
+            "top_left": [
+                24,
+                343
+            ],
+            "bottom_right": [
+                61,
+                402
+            ]
+        }
+    },
+    "主线剧情": {
+        "image_path": "location\\areas\\主线剧情.png",
+        "coordinates": {
+            "top_left": [
+                896,
+                175
+            ],
+            "bottom_right": [
+                1116,
+                283
+            ]
+        }
+    },
+    "竞技训练": {
+        "image_path": "location\\areas\\竞技训练.png",
+        "coordinates": {
+            "top_left": [
+                1172,
+                174
+            ],
+            "bottom_right": [
+                1271,
+                291
+            ]
+        }
+    }
+}

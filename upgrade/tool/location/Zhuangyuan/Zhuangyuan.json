@@ -1,0 +1,1523 @@
+{
+    "轮盘区域": {
+        "image_path": "location\\Zhuangyuan\\轮盘区域.png",
+        "coordinates": {
+            "top_left": [
+                55,
+                508
+            ],
+            "bottom_right": [
+                213,
+                666
+            ]
+        }
+    },
+    "庄园指引领取": {
+        "image_path": "location\\Zhuangyuan\\庄园指引领取.png",
+        "coordinates": {
+            "top_left": [
+                1020,
+                164
+            ],
+            "bottom_right": [
+                1125,
+                221
+            ]
+        }
+    },
+    "绿色小怪叹号": {
+        "image_path": "location\\Zhuangyuan\\绿色小怪叹号.png",
+        "coordinates": {
+            "top_left": [
+                214,
+                191
+            ],
+            "bottom_right": [
+                260,
+                242
+            ]
+        }
+    },
+    "寻物品所在蓝光1": {
+        "image_path": "location\\Zhuangyuan\\寻物品所在蓝光1.png",
+        "coordinates": {
+            "top_left": [
+                202,
+                378
+            ],
+            "bottom_right": [
+                239,
+                451
+            ]
+        }
+    },
+    "寻物品所在蓝光2": {
+        "image_path": "location\\Zhuangyuan\\寻物品所在蓝光2.png",
+        "coordinates": {
+            "top_left": [
+                197,
+                370
+            ],
+            "bottom_right": [
+                237,
+                446
+            ]
+        }
+    },
+    "寻物品所在蓝光3": {
+        "image_path": "location\\Zhuangyuan\\寻物品所在蓝光3.png",
+        "coordinates": {
+            "top_left": [
+                203,
+                376
+            ],
+            "bottom_right": [
+                236,
+                450
+            ]
+        }
+    },
+    "蓝色小怪叹号": {
+        "image_path": "location\\Zhuangyuan\\蓝色小怪叹号.png",
+        "coordinates": {
+            "top_left": [
+                870,
+                215
+            ],
+            "bottom_right": [
+                913,
+                265
+            ]
+        }
+    },
+    "寻物蓝光右下": {
+        "image_path": "location\\Zhuangyuan\\寻物蓝光右下.png",
+        "coordinates": {
+            "top_left": [
+                430,
+                287
+            ],
+            "bottom_right": [
+                474,
+                340
+            ]
+        }
+    },
+    "寻物蓝光右边散开": {
+        "image_path": "location\\Zhuangyuan\\寻物蓝光右边散开.png",
+        "coordinates": {
+            "top_left": [
+                253,
+                358
+            ],
+            "bottom_right": [
+                319,
+                431
+            ]
+        }
+    },
+    "寻物蓝光右边集中": {
+        "image_path": "location\\Zhuangyuan\\寻物蓝光右边集中.png",
+        "coordinates": {
+            "top_left": [
+                270,
+                353
+            ],
+            "bottom_right": [
+                314,
+                430
+            ]
+        }
+    },
+    "寻物蓝光上": {
+        "image_path": "location\\Zhuangyuan\\寻物蓝光上.png",
+        "coordinates": {
+            "top_left": [
+                678,
+                456
+            ],
+            "bottom_right": [
+                745,
+                548
+            ]
+        }
+    },
+    "寻物蓝光左上": {
+        "image_path": "location\\Zhuangyuan\\寻物蓝光左上.png",
+        "coordinates": {
+            "top_left": [
+                872,
+                432
+            ],
+            "bottom_right": [
+                944,
+                518
+            ]
+        }
+    },
+    "紫色小兵感叹号": {
+        "image_path": "location\\Zhuangyuan\\紫色小兵感叹号.png",
+        "coordinates": {
+            "top_left": [
+                1076,
+                246
+            ],
+            "bottom_right": [
+                1127,
+                298
+            ]
+        }
+    },
+    "轮盘区域（不可点击）": {
+        "image_path": "location\\Zhuangyuan\\轮盘区域（不可点击）.png",
+        "coordinates": {
+            "top_left": [
+                36,
+                496
+            ],
+            "bottom_right": [
+                221,
+                671
+            ]
+        }
+    },
+    "庄园管家（不可点击）": {
+        "image_path": "location\\Zhuangyuan\\庄园管家（不可点击）.png",
+        "coordinates": {
+            "top_left": [
+                8,
+                82
+            ],
+            "bottom_right": [
+                330,
+                163
+            ]
+        }
+    },
+    "庄园指引不可点击": {
+        "image_path": "location\\Zhuangyuan\\庄园指引不可点击.png",
+        "coordinates": {
+            "top_left": [
+                9,
+                154
+            ],
+            "bottom_right": [
+                222,
+                248
+            ]
+        }
+    },
+    "右上角不可点击": {
+        "image_path": "location\\Zhuangyuan\\右上角不可点击.png",
+        "coordinates": {
+            "top_left": [
+                979,
+                5
+            ],
+            "bottom_right": [
+                1270,
+                50
+            ]
+        }
+    },
+    "右下角不可点击": {
+        "image_path": "location\\Zhuangyuan\\右下角不可点击.png",
+        "coordinates": {
+            "top_left": [
+                590,
+                647
+            ],
+            "bottom_right": [
+                1271,
+                714
+            ]
+        }
+    },
+    "好友不可点击": {
+        "image_path": "location\\Zhuangyuan\\好友不可点击.png",
+        "coordinates": {
+            "top_left": [
+                1216,
+                249
+            ],
+            "bottom_right": [
+                1271,
+                371
+            ]
+        }
+    },
+    "聊天气泡": {
+        "image_path": "location\\Zhuangyuan\\聊天气泡.png",
+        "coordinates": {
+            "top_left": [
+                439,
+                10
+            ],
+            "bottom_right": [
+                488,
+                59
+            ]
+        }
+    },
+    "左上角不可点击区域": {
+        "image_path": "location\\Zhuangyuan\\左上角不可点击区域.png",
+        "coordinates": {
+            "top_left": [
+                2,
+                1
+            ],
+            "bottom_right": [
+                349,
+                97
+            ]
+        }
+    },
+    "完成1次同游": {
+        "image_path": "location\\Zhuangyuan\\完成1次同游.png",
+        "coordinates": {
+            "top_left": [
+                497,
+                358
+            ],
+            "bottom_right": [
+                1130,
+                456
+            ]
+        }
+    },
+    "同游前往区域（用于获得点击坐标）": {
+        "image_path": "location\\Zhuangyuan\\同游前往区域（用于获得点击坐标）.png",
+        "coordinates": {
+            "top_left": [
+                934,
+                380
+            ],
+            "bottom_right": [
+                1126,
+                434
+            ]
+        }
+    },
+    "庄园指引（任务列表）": {
+        "image_path": "location\\Zhuangyuan\\庄园指引（任务列表）.png",
+        "coordinates": {
+            "top_left": [
+                20,
+                181
+            ],
+            "bottom_right": [
+                90,
+                234
+            ]
+        }
+    },
+    "庄园管家": {
+        "image_path": "location\\Zhuangyuan\\庄园管家.png",
+        "coordinates": {
+            "top_left": [
+                20,
+                99
+            ],
+            "bottom_right": [
+                81,
+                146
+            ]
+        }
+    },
+    "邀请同游按钮": {
+        "image_path": "location\\Zhuangyuan\\邀请同游按钮.png",
+        "coordinates": {
+            "top_left": [
+                938,
+                608
+            ],
+            "bottom_right": [
+                1128,
+                659
+            ]
+        }
+    },
+    "第一个同游人物位置": {
+        "image_path": "location\\Zhuangyuan\\第一个同游人物位置.png",
+        "coordinates": {
+            "top_left": [
+                165,
+                179
+            ],
+            "bottom_right": [
+                369,
+                575
+            ]
+        }
+    },
+    "跳过": {
+        "image_path": "location\\Zhuangyuan\\跳过.png",
+        "coordinates": {
+            "top_left": [
+                1139,
+                22
+            ],
+            "bottom_right": [
+                1236,
+                56
+            ]
+        }
+    },
+    "闲聊跳过后的确认": {
+        "image_path": "location\\Zhuangyuan\\闲聊跳过后的确认.png",
+        "coordinates": {
+            "top_left": [
+                657,
+                422
+            ],
+            "bottom_right": [
+                920,
+                472
+            ]
+        }
+    },
+    "闲聊跳过确认后的摄影": {
+        "image_path": "location\\Zhuangyuan\\闲聊跳过确认后的摄影.png",
+        "coordinates": {
+            "top_left": [
+                1111,
+                310
+            ],
+            "bottom_right": [
+                1206,
+                420
+            ]
+        }
+    },
+    "摄影后的点击屏幕继续": {
+        "image_path": "location\\Zhuangyuan\\摄影后的点击屏幕继续.png",
+        "coordinates": {
+            "top_left": [
+                602,
+                648
+            ],
+            "bottom_right": [
+                723,
+                684
+            ]
+        }
+    },
+    "闲聊完成点击空白处关闭": {
+        "image_path": "location\\Zhuangyuan\\闲聊完成点击空白处关闭.png",
+        "coordinates": {
+            "top_left": [
+                580,
+                602
+            ],
+            "bottom_right": [
+                705,
+                632
+            ]
+        }
+    },
+    "庄园指引寻物": {
+        "image_path": "location\\Zhuangyuan\\庄园指引寻物.png",
+        "coordinates": {
+            "top_left": [
+                496,
+                465
+            ],
+            "bottom_right": [
+                1128,
+                563
+            ]
+        }
+    },
+    "庄园指引6次伙伴挂机": {
+        "image_path": "location\\Zhuangyuan\\庄园指引6次伙伴挂机.png",
+        "coordinates": {
+            "top_left": [
+                495,
+                359
+            ],
+            "bottom_right": [
+                1125,
+                452
+            ]
+        }
+    },
+    "庄园指引钓鱼": {
+        "image_path": "location\\Zhuangyuan\\庄园指引钓鱼.png",
+        "coordinates": {
+            "top_left": [
+                498,
+                159
+            ],
+            "bottom_right": [
+                1128,
+                254
+            ]
+        }
+    },
+    "庄园指引加工站": {
+        "image_path": "location\\Zhuangyuan\\庄园指引加工站.png",
+        "coordinates": {
+            "top_left": [
+                498,
+                486
+            ],
+            "bottom_right": [
+                1128,
+                577
+            ]
+        }
+    },
+    "寻物前往后开始": {
+        "image_path": "location\\Zhuangyuan\\寻物前往后开始.png",
+        "coordinates": {
+            "top_left": [
+                725,
+                487
+            ],
+            "bottom_right": [
+                905,
+                528
+            ]
+        }
+    },
+    "寻物跳过后的确认": {
+        "image_path": "location\\Zhuangyuan\\寻物跳过后的确认.png",
+        "coordinates": {
+            "top_left": [
+                659,
+                427
+            ],
+            "bottom_right": [
+                918,
+                472
+            ]
+        }
+    },
+    "寻物跳过确认后前往寻找": {
+        "image_path": "location\\Zhuangyuan\\寻物跳过确认后前往寻找.png",
+        "coordinates": {
+            "top_left": [
+                950,
+                584
+            ],
+            "bottom_right": [
+                1007,
+                646
+            ]
+        }
+    },
+    "寻物蓝光上的六边形": {
+        "image_path": "location\\Zhuangyuan\\寻物蓝光上的六边形.png",
+        "coordinates": {
+            "top_left": [
+                622,
+                390
+            ],
+            "bottom_right": [
+                678,
+                443
+            ]
+        }
+    },
+    "寻路主角区域": {
+        "image_path": "location\\Zhuangyuan\\寻路主角区域.png",
+        "coordinates": {
+            "top_left": [
+                575,
+                314
+            ],
+            "bottom_right": [
+                706,
+                414
+            ]
+        }
+    },
+    "寻物目的地1小岛": {
+        "image_path": "location\\Zhuangyuan\\寻物目的地1小岛.png",
+        "coordinates": {
+            "top_left": [
+                999,
+                613
+            ],
+            "bottom_right": [
+                1139,
+                642
+            ]
+        }
+    },
+    "好友（点击拉伸）": {
+        "image_path": "location\\Zhuangyuan\\好友（点击拉伸）.png",
+        "coordinates": {
+            "top_left": [
+                1228,
+                270
+            ],
+            "bottom_right": [
+                1276,
+                358
+            ]
+        }
+    },
+    "拜访第一个好友的图标": {
+        "image_path": "location\\Zhuangyuan\\拜访第一个好友的图标.png",
+        "coordinates": {
+            "top_left": [
+                1198,
+                199
+            ],
+            "bottom_right": [
+                1237,
+                243
+            ]
+        }
+    },
+    "主页庄园图标": {
+        "image_path": "location\\Zhuangyuan\\主页庄园图标.png",
+        "coordinates": {
+            "top_left": [
+                1027,
+                653
+            ],
+            "bottom_right": [
+                1072,
+                697
+            ]
+        }
+    },
+    "小岛手办归还": {
+        "image_path": "location\\Zhuangyuan\\小岛手办归还.png",
+        "coordinates": {
+            "top_left": [
+                951,
+                584
+            ],
+            "bottom_right": [
+                1167,
+                645
+            ]
+        }
+    },
+    "归还提交": {
+        "image_path": "location\\Zhuangyuan\\归还提交.png",
+        "coordinates": {
+            "top_left": [
+                724,
+                487
+            ],
+            "bottom_right": [
+                905,
+                525
+            ]
+        }
+    },
+    "寻物任务2研习社刀鞘": {
+        "image_path": "location\\Zhuangyuan\\寻物任务2研习社刀鞘.png",
+        "coordinates": {
+            "top_left": [
+                998,
+                616
+            ],
+            "bottom_right": [
+                1187,
+                643
+            ]
+        }
+    },
+    "寻物前往他人庄园": {
+        "image_path": "location\\Zhuangyuan\\寻物前往他人庄园.png",
+        "coordinates": {
+            "top_left": [
+                384,
+                233
+            ],
+            "bottom_right": [
+                895,
+                485
+            ]
+        }
+    },
+    "寻物他庄前往确认": {
+        "image_path": "location\\Zhuangyuan\\寻物他庄前往确认.png",
+        "coordinates": {
+            "top_left": [
+                664,
+                411
+            ],
+            "bottom_right": [
+                851,
+                460
+            ]
+        }
+    },
+    "寻物刀鞘目标规还": {
+        "image_path": "location\\Zhuangyuan\\寻物刀鞘目标规还.png",
+        "coordinates": {
+            "top_left": [
+                951,
+                584
+            ],
+            "bottom_right": [
+                1167,
+                645
+            ]
+        }
+    },
+    "好友第一个id区域": {
+        "image_path": "location\\Zhuangyuan\\好友第一个id区域.png",
+        "coordinates": {
+            "top_left": [
+                945,
+                168
+            ],
+            "bottom_right": [
+                1141,
+                213
+            ]
+        }
+    },
+    "好友滚动区域": {
+        "image_path": "location\\Zhuangyuan\\好友滚动区域.png",
+        "coordinates": {
+            "top_left": [
+                888,
+                166
+            ],
+            "bottom_right": [
+                951,
+                536
+            ]
+        }
+    },
+    "可拜访伙伴数量获取": {
+        "image_path": "location\\Zhuangyuan\\可拜访伙伴数量获取.png",
+        "coordinates": {
+            "top_left": [
+                21,
+                122
+            ],
+            "bottom_right": [
+                161,
+                153
+            ]
+        }
+    },
+    "入侵者拜访数量获取": {
+        "image_path": "location\\Zhuangyuan\\入侵者拜访数量获取.png",
+        "coordinates": {
+            "top_left": [
+                22,
+                234
+            ],
+            "bottom_right": [
+                176,
+                270
+            ]
+        }
+    },
+    "互助收益数量获取": {
+        "image_path": "location\\Zhuangyuan\\互助收益数量获取.png",
+        "coordinates": {
+            "top_left": [
+                19,
+                331
+            ],
+            "bottom_right": [
+                146,
+                359
+            ]
+        }
+    },
+    "庄园等级获取": {
+        "image_path": "location\\Zhuangyuan\\庄园等级获取.png",
+        "coordinates": {
+            "top_left": [
+                2,
+                83
+            ],
+            "bottom_right": [
+                244,
+                110
+            ]
+        }
+    },
+    "紫色小怪的倒三角": {
+        "image_path": "location\\Zhuangyuan\\紫色小怪的倒三角.png",
+        "coordinates": {
+            "top_left": [
+                28,
+                287
+            ],
+            "bottom_right": [
+                50,
+                309
+            ]
+        }
+    },
+    "拜访后的入侵者前往": {
+        "image_path": "location\\Zhuangyuan\\拜访后的入侵者前往.png",
+        "coordinates": {
+            "top_left": [
+                180,
+                245
+            ],
+            "bottom_right": [
+                260,
+                269
+            ]
+        }
+    },
+    "入侵者前往后出现立即攻击": {
+        "image_path": "location\\Zhuangyuan\\入侵者前往后出现立即攻击.png",
+        "coordinates": {
+            "top_left": [
+                847,
+                496
+            ],
+            "bottom_right": [
+                998,
+                535
+            ]
+        }
+    },
+    "跳过战斗": {
+        "image_path": "location\\Zhuangyuan\\跳过战斗.png",
+        "coordinates": {
+            "top_left": [
+                1204,
+                23
+            ],
+            "bottom_right": [
+                1255,
+                73
+            ]
+        }
+    },
+    "战斗结束": {
+        "image_path": "location\\Zhuangyuan\\战斗结束.png",
+        "coordinates": {
+            "top_left": [
+                1166,
+                563
+            ],
+            "bottom_right": [
+                1225,
+                616
+            ]
+        }
+    },
+    "胜利区域文字": {
+        "image_path": "location\\Zhuangyuan\\胜利区域文字.png",
+        "coordinates": {
+            "top_left": [
+                80,
+                505
+            ],
+            "bottom_right": [
+                183,
+                541
+            ]
+        }
+    },
+    "入侵者前往的不可点击区域": {
+        "image_path": "location\\Zhuangyuan\\入侵者前往的不可点击区域.png",
+        "coordinates": {
+            "top_left": [
+                19,
+                333
+            ],
+            "bottom_right": [
+                263,
+                359
+            ]
+        }
+    },
+    "互助收益前往的不可点击区域": {
+        "image_path": "location\\Zhuangyuan\\互助收益前往的不可点击区域.png",
+        "coordinates": {
+            "top_left": [
+                18,
+                241
+            ],
+            "bottom_right": [
+                264,
+                272
+            ]
+        }
+    },
+    "拜访互助握手标志": {
+        "image_path": "location\\Zhuangyuan\\拜访互助握手标志.png",
+        "coordinates": {
+            "top_left": [
+                655,
+                142
+            ],
+            "bottom_right": [
+                699,
+                183
+            ]
+        }
+    },
+    "拜访当前庄园不需要互助文字": {
+        "image_path": "location\\Zhuangyuan\\拜访当前庄园不需要互助文字.png",
+        "coordinates": {
+            "top_left": [
+                21,
+                373
+            ],
+            "bottom_right": [
+                122,
+                395
+            ]
+        }
+    },
+    "加工站完成领取": {
+        "image_path": "location\\Zhuangyuan\\加工站完成领取.png",
+        "coordinates": {
+            "top_left": [
+                267,
+                264
+            ],
+            "bottom_right": [
+                387,
+                285
+            ]
+        }
+    },
+    "剩余可加工区域": {
+        "image_path": "location\\Zhuangyuan\\剩余可加工区域.png",
+        "coordinates": {
+            "top_left": [
+                417,
+                241
+            ],
+            "bottom_right": [
+                530,
+                349
+            ]
+        }
+    },
+    "加工站用钻石刷新": {
+        "image_path": "location\\Zhuangyuan\\加工站用钻石刷新.png",
+        "coordinates": {
+            "top_left": [
+                1079,
+                639
+            ],
+            "bottom_right": [
+                1181,
+                679
+            ]
+        }
+    },
+    "加工站的全部领取按钮": {
+        "image_path": "location\\Zhuangyuan\\加工站的全部领取按钮.png",
+        "coordinates": {
+            "top_left": [
+                42,
+                625
+            ],
+            "bottom_right": [
+                216,
+                678
+            ]
+        }
+    },
+    "加工站点击订单后的开始加工": {
+        "image_path": "location\\Zhuangyuan\\加工站点击订单后的开始加工.png",
+        "coordinates": {
+            "top_left": [
+                561,
+                439
+            ],
+            "bottom_right": [
+                719,
+                483
+            ]
+        }
+    },
+    "庄园管家上的垂钓区域": {
+        "image_path": "location\\Zhuangyuan\\庄园管家上的垂钓区域.png",
+        "coordinates": {
+            "top_left": [
+                134,
+                96
+            ],
+            "bottom_right": [
+                232,
+                180
+            ]
+        }
+    },
+    "庄园管家上的庄园时钟": {
+        "image_path": "location\\Zhuangyuan\\庄园管家上的庄园时钟.png",
+        "coordinates": {
+            "top_left": [
+                859,
+                107
+            ],
+            "bottom_right": [
+                958,
+                198
+            ]
+        }
+    },
+    "庄园管家上的炼金研习社": {
+        "image_path": "location\\Zhuangyuan\\庄园管家上的炼金研习社.png",
+        "coordinates": {
+            "top_left": [
+                447,
+                234
+            ],
+            "bottom_right": [
+                568,
+                318
+            ]
+        }
+    },
+    "庄园管家上的休息区": {
+        "image_path": "location\\Zhuangyuan\\庄园管家上的休息区.png",
+        "coordinates": {
+            "top_left": [
+                615,
+                470
+            ],
+            "bottom_right": [
+                718,
+                560
+            ]
+        }
+    },
+    "庄园管家上的加工站": {
+        "image_path": "location\\Zhuangyuan\\庄园管家上的加工站.png",
+        "coordinates": {
+            "top_left": [
+                872,
+                352
+            ],
+            "bottom_right": [
+                1031,
+                384
+            ]
+        }
+    },
+    "加工占里面的钻石位置": {
+        "image_path": "location\\Zhuangyuan\\加工占里面的钻石位置.png",
+        "coordinates": {
+            "top_left": [
+                1178,
+                13
+            ],
+            "bottom_right": [
+                1222,
+                44
+            ]
+        }
+    },
+    "加工站内的钻石位置": {
+        "image_path": "location\\Zhuangyuan\\加工站内的钻石位置.png",
+        "coordinates": {
+            "top_left": [
+                1162,
+                20
+            ],
+            "bottom_right": [
+                1235,
+                39
+            ]
+        }
+    },
+    "庄园管家上的宠物之家": {
+        "image_path": "location\\Zhuangyuan\\庄园管家上的宠物之家.png",
+        "coordinates": {
+            "top_left": [
+                199,
+                291
+            ],
+            "bottom_right": [
+                308,
+                332
+            ]
+        }
+    },
+    "宠物之家内的蓝色铃铛": {
+        "image_path": "location\\Zhuangyuan\\宠物之家内的蓝色铃铛.png",
+        "coordinates": {
+            "top_left": [
+                54,
+                285
+            ],
+            "bottom_right": [
+                127,
+                357
+            ]
+        }
+    },
+    "宠物之家内的紫色铃铛": {
+        "image_path": "location\\Zhuangyuan\\宠物之家内的紫色铃铛.png",
+        "coordinates": {
+            "top_left": [
+                191,
+                186
+            ],
+            "bottom_right": [
+                270,
+                259
+            ]
+        }
+    },
+    "饭桶位置1": {
+        "image_path": "location\\Zhuangyuan\\饭桶位置1.png",
+        "coordinates": {
+            "top_left": [
+                289,
+                546
+            ],
+            "bottom_right": [
+                393,
+                630
+            ]
+        }
+    },
+    "宠物之家饭桶位置2": {
+        "image_path": "location\\Zhuangyuan\\宠物之家饭桶位置2.png",
+        "coordinates": {
+            "top_left": [
+                770,
+                546
+            ],
+            "bottom_right": [
+                902,
+                642
+            ]
+        }
+    },
+    "宠物之家点击饭桶后添加": {
+        "image_path": "location\\Zhuangyuan\\宠物之家点击饭桶后添加.png",
+        "coordinates": {
+            "top_left": [
+                820,
+                516
+            ],
+            "bottom_right": [
+                1034,
+                572
+            ]
+        }
+    },
+    "宠物之家点击饭桶后的空饭桶样式": {
+        "image_path": "location\\Zhuangyuan\\宠物之家点击饭桶后的空饭桶样式.png",
+        "coordinates": {
+            "top_left": [
+                275,
+                300
+            ],
+            "bottom_right": [
+                467,
+                408
+            ]
+        }
+    },
+    "宠物之家饭桶后点击添加出现不足的提示": {
+        "image_path": "location\\Zhuangyuan\\宠物之家饭桶后点击添加出现不足的提示.png",
+        "coordinates": {
+            "top_left": [
+                433,
+                320
+            ],
+            "bottom_right": [
+                856,
+                500
+            ]
+        }
+    },
+    "宠物之家点击铃铛后的跳过": {
+        "image_path": "location\\Zhuangyuan\\宠物之家点击铃铛后的跳过.png",
+        "coordinates": {
+            "top_left": [
+                1135,
+                18
+            ],
+            "bottom_right": [
+                1240,
+                59
+            ]
+        }
+    },
+    "宠物之家点击铃铛后跳过确认": {
+        "image_path": "location\\Zhuangyuan\\宠物之家点击铃铛后跳过确认.png",
+        "coordinates": {
+            "top_left": [
+                659,
+                424
+            ],
+            "bottom_right": [
+                922,
+                475
+            ]
+        }
+    },
+    "宠物之家宠物收益": {
+        "image_path": "location\\Zhuangyuan\\宠物之家宠物收益.png",
+        "coordinates": {
+            "top_left": [
+                1072,
+                557
+            ],
+            "bottom_right": [
+                1139,
+                632
+            ]
+        }
+    },
+    "宠物之家点击饭桶后第一个口粮位置": {
+        "image_path": "location\\Zhuangyuan\\宠物之家点击饭桶后第一个口粮位置.png",
+        "coordinates": {
+            "top_left": [
+                520,
+                558
+            ],
+            "bottom_right": [
+                546,
+                587
+            ]
+        }
+    },
+    "宠物之家点击饭桶后第二个口粮位置": {
+        "image_path": "location\\Zhuangyuan\\宠物之家点击饭桶后第二个口粮位置.png",
+        "coordinates": {
+            "top_left": [
+                625,
+                551
+            ],
+            "bottom_right": [
+                649,
+                585
+            ]
+        }
+    },
+    "宠物之家点击饭桶后第三个口粮位置": {
+        "image_path": "location\\Zhuangyuan\\宠物之家点击饭桶后第三个口粮位置.png",
+        "coordinates": {
+            "top_left": [
+                725,
+                558
+            ],
+            "bottom_right": [
+                752,
+                585
+            ]
+        }
+    },
+    "宠物之家狗粮1": {
+        "image_path": "location\\Zhuangyuan\\宠物之家狗粮1.png",
+        "coordinates": {
+            "top_left": [
+                511,
+                500
+            ],
+            "bottom_right": [
+                552,
+                645
+            ]
+        }
+    },
+    "宠物之家测试区域": {
+        "image_path": "location\\Zhuangyuan\\宠物之家测试区域.png",
+        "coordinates": {
+            "top_left": [
+                510,
+                551
+            ],
+            "bottom_right": [
+                750,
+                583
+            ]
+        }
+    },
+    "宠物之家第二个猫粮测试": {
+        "image_path": "location\\Zhuangyuan\\宠物之家第二个猫粮测试.png",
+        "coordinates": {
+            "top_left": [
+                620,
+                543
+            ],
+            "bottom_right": [
+                657,
+                599
+            ]
+        }
+    },
+    "宠物之家第三个猫粮测试": {
+        "image_path": "location\\Zhuangyuan\\宠物之家第三个猫粮测试.png",
+        "coordinates": {
+            "top_left": [
+                721,
+                541
+            ],
+            "bottom_right": [
+                760,
+                599
+            ]
+        }
+    },
+    "可拜访伙伴数量获取new": {
+        "image_path": "location\\Zhuangyuan\\可拜访伙伴数量获取new.png",
+        "coordinates": {
+            "top_left": [
+                17,
+                122
+            ],
+            "bottom_right": [
+                135,
+                153
+            ]
+        }
+    },
+    "入侵者拜访数量获取new": {
+        "image_path": "location\\Zhuangyuan\\入侵者拜访数量获取new.png",
+        "coordinates": {
+            "top_left": [
+                19,
+                238
+            ],
+            "bottom_right": [
+                143,
+                269
+            ]
+        }
+    },
+    "互助收益数量获取new": {
+        "image_path": "location\\Zhuangyuan\\互助收益数量获取new.png",
+        "coordinates": {
+            "top_left": [
+                19,
+                330
+            ],
+            "bottom_right": [
+                116,
+                360
+            ]
+        }
+    },
+    "好友列表不可点击区域": {
+        "image_path": "location\\Zhuangyuan\\好友列表不可点击区域.png",
+        "coordinates": {
+            "top_left": [
+                870,
+                164
+            ],
+            "bottom_right": [
+                1253,
+                542
+            ]
+        }
+    },
+    "入侵者标志检测区域": {
+        "image_path": "location\\Zhuangyuan\\入侵者标志检测区域.png",
+        "coordinates": {
+            "top_left": [
+                7,
+                279
+            ],
+            "bottom_right": [
+                272,
+                331
+            ]
+        }
+    },
+    "庄园助手": {
+        "image_path": "location\\Zhuangyuan\\庄园助手.png",
+        "coordinates": {
+            "top_left": [
+                224,
+                184
+            ],
+            "bottom_right": [
+                315,
+                229
+            ]
+        }
+    },
+    "庄园助手拜访数量区域": {
+        "image_path": "location\\Zhuangyuan\\庄园助手拜访数量区域.png",
+        "coordinates": {
+            "top_left": [
+                489,
+                184
+            ],
+            "bottom_right": [
+                623,
+                222
+            ]
+        }
+    },
+    "庄园助手入侵者数量区域": {
+        "image_path": "location\\Zhuangyuan\\庄园助手入侵者数量区域.png",
+        "coordinates": {
+            "top_left": [
+                493,
+                313
+            ],
+            "bottom_right": [
+                630,
+                344
+            ]
+        }
+    },
+    "庄园助手一键执行区域": {
+        "image_path": "location\\Zhuangyuan\\庄园助手一键执行区域.png",
+        "coordinates": {
+            "top_left": [
+                228,
+                539
+            ],
+            "bottom_right": [
+                405,
+                580
+            ]
+        }
+    },
+    "一键执行后的确认区域": {
+        "image_path": "location\\Zhuangyuan\\一键执行后的确认区域.png",
+        "coordinates": {
+            "top_left": [
+                586,
+                545
+            ],
+            "bottom_right": [
+                691,
+                580
+            ]
+        }
+    },
+    "同游按钮": {
+        "image_path": "location\\Zhuangyuan\\同游按钮.png",
+        "coordinates": {
+            "top_left": [
+                894,
+                664
+            ],
+            "bottom_right": [
+                983,
+                694
+            ]
+        }
+    },
+    "同游第一个角色位置": {
+        "image_path": "location\\Zhuangyuan\\同游第一个角色位置.png",
+        "coordinates": {
+            "top_left": [
+                218,
+                245
+            ],
+            "bottom_right": [
+                345,
+                470
+            ]
+        }
+    },
+    "剩余要求次数": {
+        "image_path": "location\\Zhuangyuan\\剩余要求次数.png",
+        "coordinates": {
+            "top_left": [
+                492,
+                614
+            ],
+            "bottom_right": [
+                658,
+                649
+            ]
+        }
+    },
+    "闲聊": {
+        "image_path": "location\\Zhuangyuan\\闲聊.png",
+        "coordinates": {
+            "top_left": [
+                1084,
+                387
+            ],
+            "bottom_right": [
+                1189,
+                420
+            ]
+        }
+    },
+    "加工站列表中橙色的订单": {
+        "image_path": "location\\Zhuangyuan\\加工站列表中橙色的订单.png",
+        "coordinates": {
+            "top_left": [
+                460,
+                671
+            ],
+            "bottom_right": [
+                558,
+                688
+            ]
+        }
+    },
+    "加工站列表中的紫色订单": {
+        "image_path": "location\\Zhuangyuan\\加工站列表中的紫色订单.png",
+        "coordinates": {
+            "top_left": [
+                665,
+                669
+            ],
+            "bottom_right": [
+                764,
+                689
+            ]
+        }
+    },
+    "加工站列表中蓝色订单": {
+        "image_path": "location\\Zhuangyuan\\加工站列表中蓝色订单.png",
+        "coordinates": {
+            "top_left": [
+                872,
+                671
+            ],
+            "bottom_right": [
+                968,
+                686
+            ]
+        }
+    },
+    "日志领取": {
+        "image_path": "location\\Zhuangyuan\\日志领取.png",
+        "coordinates": {
+            "top_left": [
+                1171,
+                669
+            ],
+            "bottom_right": [
+                1252,
+                693
+            ]
+        }
+    },
+    "庄园领奖": {
+        "image_path": "location\\Zhuangyuan\\庄园领奖.png",
+        "coordinates": {
+            "top_left": [
+                264,
+                236
+            ],
+            "bottom_right": [
+                357,
+                259
+            ]
+        }
+    },
+    "全部领取": {
+        "image_path": "location\\Zhuangyuan\\全部领取.png",
+        "coordinates": {
+            "top_left": [
+                911,
+                528
+            ],
+            "bottom_right": [
+                1031,
+                555
+            ]
+        }
+    }
+}

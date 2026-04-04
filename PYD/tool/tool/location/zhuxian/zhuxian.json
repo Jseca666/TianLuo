@@ -1,0 +1,548 @@
+{
+    "主页主线剧情入口": {
+        "image_path": "location\\zhuxian\\主页主线剧情入口.png",
+        "coordinates": {
+            "top_left": [
+                905,
+                192
+            ],
+            "bottom_right": [
+                1041,
+                242
+            ]
+        }
+    },
+    "主线剧情入口后的探索": {
+        "image_path": "location\\zhuxian\\主线剧情入口后的探索.png",
+        "coordinates": {
+            "top_left": [
+                1085,
+                642
+            ],
+            "bottom_right": [
+                1251,
+                683
+            ]
+        }
+    },
+    "探索进度区域": {
+        "image_path": "location\\zhuxian\\探索进度区域.png",
+        "coordinates": {
+            "top_left": [
+                1149,
+                609
+            ],
+            "bottom_right": [
+                1266,
+                634
+            ]
+        }
+    },
+    "探索进入页面的关卡数字": {
+        "image_path": "location\\zhuxian\\探索进入页面的关卡数字.png",
+        "coordinates": {
+            "top_left": [
+                170,
+                341
+            ],
+            "bottom_right": [
+                277,
+                380
+            ]
+        }
+    },
+    "当前章节的宝箱节点": {
+        "image_path": "location\\zhuxian\\当前章节的宝箱节点.png",
+        "coordinates": {
+            "top_left": [
+                112,
+                670
+            ],
+            "bottom_right": [
+                389,
+                701
+            ]
+        }
+    },
+    "关卡页面的挑战位置": {
+        "image_path": "location\\zhuxian\\关卡页面的挑战位置.png",
+        "coordinates": {
+            "top_left": [
+                1001,
+                644
+            ],
+            "bottom_right": [
+                1080,
+                693
+            ]
+        }
+    },
+    "体力剩余区域": {
+        "image_path": "location\\zhuxian\\体力剩余区域.png",
+        "coordinates": {
+            "top_left": [
+                1159,
+                20
+            ],
+            "bottom_right": [
+                1235,
+                44
+            ]
+        }
+    },
+    "打完剧情跳过确认": {
+        "image_path": "location\\zhuxian\\打完剧情跳过确认.png",
+        "coordinates": {
+            "top_left": [
+                692,
+                430
+            ],
+            "bottom_right": [
+                901,
+                472
+            ]
+        }
+    },
+    "跳过战斗": {
+        "image_path": "location\\zhuxian\\跳过战斗.png",
+        "coordinates": {
+            "top_left": [
+                1204,
+                23
+            ],
+            "bottom_right": [
+                1255,
+                73
+            ]
+        }
+    },
+    "跳过": {
+        "image_path": "location\\zhuxian\\跳过.png",
+        "coordinates": {
+            "top_left": [
+                1139,
+                22
+            ],
+            "bottom_right": [
+                1236,
+                56
+            ]
+        }
+    },
+    "轮回走廊战斗失败标志": {
+        "image_path": "location\\NIBO\\轮回走廊战斗失败标志.png",
+        "coordinates": {
+            "top_left": [
+                76,
+                502
+            ],
+            "bottom_right": [
+                179,
+                666
+            ]
+        }
+    },
+    "刷龙胜利": {
+        "image_path": "location\\NIBO\\刷龙胜利.png",
+        "coordinates": {
+            "top_left": [
+                1161,
+                561
+            ],
+            "bottom_right": [
+                1227,
+                622
+            ]
+        }
+    },
+    "轮回石廊返回": {
+        "image_path": "location\\NIBO\\轮回石廊返回.png",
+        "coordinates": {
+            "top_left": [
+                986,
+                570
+            ],
+            "bottom_right": [
+                1140,
+                613
+            ]
+        }
+    },
+    "点击空白处关闭": {
+        "image_path": "location\\NIBO\\点击空白处关闭.png",
+        "coordinates": {
+            "top_left": [
+                577,
+                601
+            ],
+            "bottom_right": [
+                701,
+                630
+            ]
+        }
+    },
+    "体力不足的弹窗": {
+        "image_path": "location\\zhuxian\\体力不足的弹窗.png",
+        "coordinates": {
+            "top_left": [
+                374,
+                240
+            ],
+            "bottom_right": [
+                894,
+                398
+            ]
+        }
+    },
+    "使用体力的按钮": {
+        "image_path": "location\\zhuxian\\使用体力的按钮.png",
+        "coordinates": {
+            "top_left": [
+                727,
+                453
+            ],
+            "bottom_right": [
+                868,
+                492
+            ]
+        }
+    },
+    "最大使用的按钮": {
+        "image_path": "location\\zhuxian\\最大使用的按钮.png",
+        "coordinates": {
+            "top_left": [
+                839,
+                372
+            ],
+            "bottom_right": [
+                874,
+                394
+            ]
+        }
+    },
+    "使用加一的按钮": {
+        "image_path": "location\\zhuxian\\使用加一的按钮.png",
+        "coordinates": {
+            "top_left": [
+                750,
+                372
+            ],
+            "bottom_right": [
+                767,
+                394
+            ]
+        }
+    },
+    "使用确认的按钮": {
+        "image_path": "location\\zhuxian\\使用确认的按钮.png",
+        "coordinates": {
+            "top_left": [
+                743,
+                444
+            ],
+            "bottom_right": [
+                859,
+                479
+            ]
+        }
+    },
+    "主线因为段位不足的提示": {
+        "image_path": "location\\zhuxian\\主线因为段位不足的提示.png",
+        "coordinates": {
+            "top_left": [
+                415,
+                231
+            ],
+            "bottom_right": [
+                547,
+                327
+            ]
+        }
+    },
+    "主线困难识字区域": {
+        "image_path": "location\\zhuxian\\主线困难识字区域.png",
+        "coordinates": {
+            "top_left": [
+                1201,
+                173
+            ],
+            "bottom_right": [
+                1261,
+                207
+            ]
+        }
+    },
+    "主线简单点击区域": {
+        "image_path": "location\\zhuxian\\主线简单点击区域.png",
+        "coordinates": {
+            "top_left": [
+                1078,
+                219
+            ],
+            "bottom_right": [
+                1144,
+                277
+            ]
+        }
+    },
+    "主线苦难点击区域": {
+        "image_path": "location\\zhuxian\\主线苦难点击区域.png",
+        "coordinates": {
+            "top_left": [
+                1177,
+                169
+            ],
+            "bottom_right": [
+                1242,
+                213
+            ]
+        }
+    },
+    "主线苦难星级获取区域": {
+        "image_path": "location\\zhuxian\\主线苦难星级获取区域.png",
+        "coordinates": {
+            "top_left": [
+                133,
+                668
+            ],
+            "bottom_right": [
+                410,
+                708
+            ]
+        }
+    },
+    "苦难上一关位置": {
+        "image_path": "location\\zhuxian\\苦难上一关位置.png",
+        "coordinates": {
+            "top_left": [
+                160,
+                229
+            ],
+            "bottom_right": [
+                285,
+                265
+            ]
+        }
+    },
+    "苦难下一关位置": {
+        "image_path": "location\\zhuxian\\苦难下一关位置.png",
+        "coordinates": {
+            "top_left": [
+                152,
+                458
+            ],
+            "bottom_right": [
+                284,
+                490
+            ]
+        }
+    },
+    "苦难识别星星位置": {
+        "image_path": "location\\zhuxian\\苦难识别星星位置.png",
+        "coordinates": {
+            "top_left": [
+                226,
+                341
+            ],
+            "bottom_right": [
+                334,
+                380
+            ]
+        }
+    },
+    "苦难星星模板": {
+        "image_path": "location\\zhuxian\\苦难星星模板.png",
+        "coordinates": {
+            "top_left": [
+                248,
+                347
+            ],
+            "bottom_right": [
+                273,
+                373
+            ]
+        }
+    },
+    "学院试炼入口": {
+        "image_path": "location\\zhuxian\\学院试炼入口.png",
+        "coordinates": {
+            "top_left": [
+                198,
+                670
+            ],
+            "bottom_right": [
+                233,
+                706
+            ]
+        }
+    },
+    "战术演练入口": {
+        "image_path": "location\\zhuxian\\战术演练入口.png",
+        "coordinates": {
+            "top_left": [
+                374,
+                668
+            ],
+            "bottom_right": [
+                407,
+                706
+            ]
+        }
+    },
+    "学院试炼次数区域": {
+        "image_path": "location\\zhuxian\\学院试炼次数区域.png",
+        "coordinates": {
+            "top_left": [
+                944,
+                689
+            ],
+            "bottom_right": [
+                1074,
+                715
+            ]
+        }
+    },
+    "试炼按钮": {
+        "image_path": "location\\zhuxian\\试炼按钮.png",
+        "coordinates": {
+            "top_left": [
+                905,
+                641
+            ],
+            "bottom_right": [
+                1122,
+                684
+            ]
+        }
+    },
+    "金币关": {
+        "image_path": "location\\zhuxian\\金币关.png",
+        "coordinates": {
+            "top_left": [
+                146,
+                324
+            ],
+            "bottom_right": [
+                302,
+                472
+            ]
+        }
+    },
+    "经验关": {
+        "image_path": "location\\zhuxian\\经验关.png",
+        "coordinates": {
+            "top_left": [
+                568,
+                307
+            ],
+            "bottom_right": [
+                699,
+                434
+            ]
+        }
+    },
+    "元件关": {
+        "image_path": "location\\zhuxian\\元件关.png",
+        "coordinates": {
+            "top_left": [
+                961,
+                306
+            ],
+            "bottom_right": [
+                1091,
+                443
+            ]
+        }
+    },
+    "尝试挑战": {
+        "image_path": "location\\zhuxian\\尝试挑战.png",
+        "coordinates": {
+            "top_left": [
+                1030,
+                482
+            ],
+            "bottom_right": [
+                1172,
+                517
+            ]
+        }
+    },
+    "挑战不过扫荡": {
+        "image_path": "location\\zhuxian\\挑战不过扫荡.png",
+        "coordinates": {
+            "top_left": [
+                853,
+                349
+            ],
+            "bottom_right": [
+                996,
+                384
+            ]
+        }
+    },
+    "扫荡成功的提示": {
+        "image_path": "location\\zhuxian\\扫荡成功的提示.png",
+        "coordinates": {
+            "top_left": [
+                383,
+                125
+            ],
+            "bottom_right": [
+                522,
+                195
+            ]
+        }
+    },
+    "扫荡完成确认": {
+        "image_path": "location\\zhuxian\\扫荡完成确认.png",
+        "coordinates": {
+            "top_left": [
+                701,
+                545
+            ],
+            "bottom_right": [
+                845,
+                578
+            ]
+        }
+    },
+    "演练额外奖励剩余次数": {
+        "image_path": "location\\zhuxian\\演练额外奖励剩余次数.png",
+        "coordinates": {
+            "top_left": [
+                92,
+                665
+            ],
+            "bottom_right": [
+                304,
+                700
+            ]
+        }
+    },
+    "ddd": {
+        "image_path": "location\\zhuxian\\ddd.png",
+        "coordinates": {
+            "top_left": [
+                79,
+                504
+            ],
+            "bottom_right": [
+                186,
+                542
+            ]
+        }
+    },
+    "当前关卡和章节位置": {
+        "image_path": "location\\zhuxian\\当前关卡和章节位置.png",
+        "coordinates": {
+            "top_left": [
+                174,
+                340
+            ],
+            "bottom_right": [
+                252,
+                379
+            ]
+        }
+    }
+}

@@ -1,0 +1,1133 @@
+{
+    "主页任务": {
+        "image_path": "location\\zhuye\\主页任务.png",
+        "coordinates": {
+            "top_left": [
+                24,
+                188
+            ],
+            "bottom_right": [
+                55,
+                240
+            ]
+        }
+    },
+    "邮箱所在位置": {
+        "image_path": "location\\zhuye\\邮箱所在位置.png",
+        "coordinates": {
+            "top_left": [
+                1086,
+                17
+            ],
+            "bottom_right": [
+                1111,
+                35
+            ]
+        }
+    },
+    "段位提升位置": {
+        "image_path": "location\\zhuye\\段位提升位置.png",
+        "coordinates": {
+            "top_left": [
+                1104,
+                286
+            ],
+            "bottom_right": [
+                1226,
+                346
+            ]
+        }
+    },
+    "招募位置": {
+        "image_path": "location\\zhuye\\招募位置.png",
+        "coordinates": {
+            "top_left": [
+                1127,
+                644
+            ],
+            "bottom_right": [
+                1171,
+                697
+            ]
+        }
+    },
+    "小队入口": {
+        "image_path": "location\\zhuye\\小队入口.png",
+        "coordinates": {
+            "top_left": [
+                724,
+                655
+            ],
+            "bottom_right": [
+                758,
+                695
+            ]
+        }
+    },
+    "第一个角色位置": {
+        "image_path": "location\\zhuye\\第一个角色位置.png",
+        "coordinates": {
+            "top_left": [
+                132,
+                161
+            ],
+            "bottom_right": [
+                266,
+                474
+            ]
+        }
+    },
+    "主角的培养": {
+        "image_path": "location\\zhuye\\主角的培养.png",
+        "coordinates": {
+            "top_left": [
+                1091,
+                632
+            ],
+            "bottom_right": [
+                1257,
+                694
+            ]
+        }
+    },
+    "非主角的伙伴培养": {
+        "image_path": "location\\zhuye\\非主角的伙伴培养.png",
+        "coordinates": {
+            "top_left": [
+                980,
+                635
+            ],
+            "bottom_right": [
+                1219,
+                694
+            ]
+        }
+    },
+    "伙伴培养升阶所在位置": {
+        "image_path": "location\\zhuye\\伙伴培养升阶所在位置.png",
+        "coordinates": {
+            "top_left": [
+                1191,
+                209
+            ],
+            "bottom_right": [
+                1252,
+                337
+            ]
+        }
+    },
+    "升阶物品数量所在区域": {
+        "image_path": "location\\zhuye\\升阶物品数量所在区域.png",
+        "coordinates": {
+            "top_left": [
+                858,
+                545
+            ],
+            "bottom_right": [
+                1178,
+                610
+            ]
+        }
+    },
+    "进阶第一个道具位置": {
+        "image_path": "location\\zhuye\\进阶第一个道具位置.png",
+        "coordinates": {
+            "top_left": [
+                849,
+                522
+            ],
+            "bottom_right": [
+                923,
+                597
+            ]
+        }
+    },
+    "进阶第二个道具位置": {
+        "image_path": "location\\zhuye\\进阶第二个道具位置.png",
+        "coordinates": {
+            "top_left": [
+                932,
+                523
+            ],
+            "bottom_right": [
+                1007,
+                596
+            ]
+        }
+    },
+    "进阶第三个道具位置": {
+        "image_path": "location\\zhuye\\进阶第三个道具位置.png",
+        "coordinates": {
+            "top_left": [
+                1016,
+                527
+            ],
+            "bottom_right": [
+                1086,
+                594
+            ]
+        }
+    },
+    "进阶第四个道具位置": {
+        "image_path": "location\\zhuye\\进阶第四个道具位置.png",
+        "coordinates": {
+            "top_left": [
+                1101,
+                524
+            ],
+            "bottom_right": [
+                1167,
+                598
+            ]
+        }
+    },
+    "进阶点击后的前往": {
+        "image_path": "location\\zhuye\\进阶点击后的前往.png",
+        "coordinates": {
+            "top_left": [
+                736,
+                351
+            ],
+            "bottom_right": [
+                821,
+                382
+            ]
+        }
+    },
+    "进阶前往后的扫荡10": {
+        "image_path": "location\\zhuye\\进阶前往后的扫荡10.png",
+        "coordinates": {
+            "top_left": [
+                721,
+                403
+            ],
+            "bottom_right": [
+                804,
+                441
+            ]
+        }
+    },
+    "扫荡完成的确认": {
+        "image_path": "location\\zhuye\\扫荡完成的确认.png",
+        "coordinates": {
+            "top_left": [
+                688,
+                541
+            ],
+            "bottom_right": [
+                873,
+                580
+            ]
+        }
+    },
+    "进阶新区域按钮": {
+        "image_path": "location\\zhuye\\进阶新区域按钮.png",
+        "coordinates": {
+            "top_left": [
+                1061,
+                631
+            ],
+            "bottom_right": [
+                1178,
+                694
+            ]
+        }
+    },
+    "伙伴培养升级点击位置": {
+        "image_path": "location\\zhuye\\伙伴培养升级点击位置.png",
+        "coordinates": {
+            "top_left": [
+                1199,
+                80
+            ],
+            "bottom_right": [
+                1244,
+                179
+            ]
+        }
+    },
+    "伙伴培养下一个角色箭头": {
+        "image_path": "location\\zhuye\\伙伴培养下一个角色箭头.png",
+        "coordinates": {
+            "top_left": [
+                760,
+                316
+            ],
+            "bottom_right": [
+                819,
+                402
+            ]
+        }
+    },
+    "升级失败的系统提示": {
+        "image_path": "location\\zhuye\\升级失败的系统提示.png",
+        "coordinates": {
+            "top_left": [
+                421,
+                230
+            ],
+            "bottom_right": [
+                530,
+                278
+            ]
+        }
+    },
+    "系统提示后的确认": {
+        "image_path": "location\\zhuye\\系统提示后的确认.png",
+        "coordinates": {
+            "top_left": [
+                706,
+                417
+            ],
+            "bottom_right": [
+                812,
+                454
+            ]
+        }
+    },
+    "系统提示后的取消": {
+        "image_path": "location\\zhuye\\系统提示后的取消.png",
+        "coordinates": {
+            "top_left": [
+                471,
+                411
+            ],
+            "bottom_right": [
+                563,
+                455
+            ]
+        }
+    },
+    "免费伙伴招募": {
+        "image_path": "location\\zhuye\\免费伙伴招募.png",
+        "coordinates": {
+            "top_left": [
+                689,
+                609
+            ],
+            "bottom_right": [
+                880,
+                693
+            ]
+        }
+    },
+    "战术补给": {
+        "image_path": "location\\zhuye\\战术补给.png",
+        "coordinates": {
+            "top_left": [
+                40,
+                178
+            ],
+            "bottom_right": [
+                131,
+                208
+            ]
+        }
+    },
+    "免费战术补给": {
+        "image_path": "location\\zhuye\\免费战术补给.png",
+        "coordinates": {
+            "top_left": [
+                749,
+                611
+            ],
+            "bottom_right": [
+                843,
+                684
+            ]
+        }
+    },
+    "伙伴招募的华东位置": {
+        "image_path": "location\\zhuye\\伙伴招募的华东位置.png",
+        "coordinates": {
+            "top_left": [
+                525,
+                265
+            ],
+            "bottom_right": [
+                1140,
+                602
+            ]
+        }
+    },
+    "战术补给华东位置": {
+        "image_path": "location\\zhuye\\战术补给华东位置.png",
+        "coordinates": {
+            "top_left": [
+                469,
+                196
+            ],
+            "bottom_right": [
+                823,
+                494
+            ]
+        }
+    },
+    "一键领取": {
+        "image_path": "location\\zhuye\\一键领取.png",
+        "coordinates": {
+            "top_left": [
+                267,
+                563
+            ],
+            "bottom_right": [
+                366,
+                591
+            ]
+        }
+    },
+    "任务里面的领取": {
+        "image_path": "location\\zhuye\\任务里面的领取.png",
+        "coordinates": {
+            "top_left": [
+                1139,
+                179
+            ],
+            "bottom_right": [
+                1236,
+                225
+            ]
+        }
+    },
+    "跳过": {
+        "image_path": "location\\zhuxian\\跳过.png",
+        "coordinates": {
+            "top_left": [
+                1139,
+                22
+            ],
+            "bottom_right": [
+                1236,
+                56
+            ]
+        }
+    },
+    "点击空白处关闭": {
+        "image_path": "location\\NIBO\\点击空白处关闭.png",
+        "coordinates": {
+            "top_left": [
+                577,
+                601
+            ],
+            "bottom_right": [
+                701,
+                630
+            ]
+        }
+    },
+    "主页商店所在区域": {
+        "image_path": "location\\zhuye\\主页商店所在区域.png",
+        "coordinates": {
+            "top_left": [
+                27,
+                512
+            ],
+            "bottom_right": [
+                54,
+                563
+            ]
+        }
+    },
+    "买免费的体力": {
+        "image_path": "location\\zhuye\\买免费的体力.png",
+        "coordinates": {
+            "top_left": [
+                287,
+                293
+            ],
+            "bottom_right": [
+                379,
+                324
+            ]
+        }
+    },
+    "购买": {
+        "image_path": "location\\zhuye\\购买.png",
+        "coordinates": {
+            "top_left": [
+                764,
+                473
+            ],
+            "bottom_right": [
+                875,
+                512
+            ]
+        }
+    },
+    "进阶弹窗": {
+        "image_path": "location\\zhuye\\进阶弹窗.png",
+        "coordinates": {
+            "top_left": [
+                424,
+                144
+            ],
+            "bottom_right": [
+                566,
+                194
+            ]
+        }
+    },
+    "主角培养": {
+        "image_path": "location\\zhuye\\主角培养.png",
+        "coordinates": {
+            "top_left": [
+                1133,
+                649
+            ],
+            "bottom_right": [
+                1209,
+                685
+            ]
+        }
+    },
+    "提升5级所在区域": {
+        "image_path": "location\\zhuye\\提升5级所在区域.png",
+        "coordinates": {
+            "top_left": [
+                887,
+                646
+            ],
+            "bottom_right": [
+                971,
+                679
+            ]
+        }
+    },
+    "伙伴培养装备位置": {
+        "image_path": "location\\zhuye\\伙伴培养装备位置.png",
+        "coordinates": {
+            "top_left": [
+                45,
+                180
+            ],
+            "bottom_right": [
+                109,
+                223
+            ]
+        }
+    },
+    "装备养成": {
+        "image_path": "location\\zhuye\\装备养成.png",
+        "coordinates": {
+            "top_left": [
+                1120,
+                648
+            ],
+            "bottom_right": [
+                1215,
+                681
+            ]
+        }
+    },
+    "装备养成后的打造": {
+        "image_path": "location\\zhuye\\装备养成后的打造.png",
+        "coordinates": {
+            "top_left": [
+                1085,
+                652
+            ],
+            "bottom_right": [
+                1137,
+                681
+            ]
+        }
+    },
+    "第二个装备位置": {
+        "image_path": "location\\zhuye\\第二个装备位置.png",
+        "coordinates": {
+            "top_left": [
+                110,
+                202
+            ],
+            "bottom_right": [
+                161,
+                262
+            ]
+        }
+    },
+    "第三个装备位置": {
+        "image_path": "location\\zhuye\\第三个装备位置.png",
+        "coordinates": {
+            "top_left": [
+                115,
+                308
+            ],
+            "bottom_right": [
+                159,
+                356
+            ]
+        }
+    },
+    "第四个装备位置": {
+        "image_path": "location\\zhuye\\第四个装备位置.png",
+        "coordinates": {
+            "top_left": [
+                119,
+                421
+            ],
+            "bottom_right": [
+                156,
+                468
+            ]
+        }
+    },
+    "精炼所在位置": {
+        "image_path": "location\\zhuye\\精炼所在位置.png",
+        "coordinates": {
+            "top_left": [
+                1205,
+                374
+            ],
+            "bottom_right": [
+                1245,
+                468
+            ]
+        }
+    },
+    "精炼结束标志去打造": {
+        "image_path": "location\\zhuye\\精炼结束标志去打造.png",
+        "coordinates": {
+            "top_left": [
+                928,
+                642
+            ],
+            "bottom_right": [
+                1066,
+                680
+            ]
+        }
+    },
+    "升维所在区域": {
+        "image_path": "location\\zhuye\\升维所在区域.png",
+        "coordinates": {
+            "top_left": [
+                1200,
+                528
+            ],
+            "bottom_right": [
+                1243,
+                611
+            ]
+        }
+    },
+    "升维按钮": {
+        "image_path": "location\\zhuye\\升维按钮.png",
+        "coordinates": {
+            "top_left": [
+                976,
+                642
+            ],
+            "bottom_right": [
+                1037,
+                680
+            ]
+        }
+    },
+    "快速精炼": {
+        "image_path": "location\\zhuye\\快速精炼.png",
+        "coordinates": {
+            "top_left": [
+                893,
+                648
+            ],
+            "bottom_right": [
+                979,
+                675
+            ]
+        }
+    },
+    "体力不足的弹窗": {
+        "image_path": "location\\zhuxian\\体力不足的弹窗.png",
+        "coordinates": {
+            "top_left": [
+                374,
+                240
+            ],
+            "bottom_right": [
+                894,
+                398
+            ]
+        }
+    },
+    "使用体力的按钮": {
+        "image_path": "location\\zhuxian\\使用体力的按钮.png",
+        "coordinates": {
+            "top_left": [
+                727,
+                453
+            ],
+            "bottom_right": [
+                868,
+                492
+            ]
+        }
+    },
+    "使用确认的按钮": {
+        "image_path": "location\\zhuxian\\使用确认的按钮.png",
+        "coordinates": {
+            "top_left": [
+                743,
+                444
+            ],
+            "bottom_right": [
+                859,
+                479
+            ]
+        }
+    },
+    "装备打造区域": {
+        "image_path": "location\\zhuye\\装备打造区域.png",
+        "coordinates": {
+            "top_left": [
+                1200,
+                97
+            ],
+            "bottom_right": [
+                1241,
+                163
+            ]
+        }
+    },
+    "一件强化所在位置": {
+        "image_path": "location\\zhuye\\一件强化所在位置.png",
+        "coordinates": {
+            "top_left": [
+                960,
+                655
+            ],
+            "bottom_right": [
+                1056,
+                683
+            ]
+        }
+    },
+    "一件强化确定": {
+        "image_path": "location\\zhuye\\一件强化确定.png",
+        "coordinates": {
+            "top_left": [
+                767,
+                481
+            ],
+            "bottom_right": [
+                845,
+                516
+            ]
+        }
+    },
+    "进入零钻石": {
+        "image_path": "location\\zhuye\\进入零钻石.png",
+        "coordinates": {
+            "top_left": [
+                477,
+                116
+            ],
+            "bottom_right": [
+                519,
+                163
+            ]
+        }
+    },
+    "学员风采": {
+        "image_path": "location\\zhuye\\学员风采.png",
+        "coordinates": {
+            "top_left": [
+                877,
+                93
+            ],
+            "bottom_right": [
+                970,
+                128
+            ]
+        }
+    },
+    "点赞": {
+        "image_path": "location\\zhuye\\点赞.png",
+        "coordinates": {
+            "top_left": [
+                538,
+                379
+            ],
+            "bottom_right": [
+                561,
+                405
+            ]
+        }
+    },
+    "好友位置": {
+        "image_path": "location\\zhuye\\好友位置.png",
+        "coordinates": {
+            "top_left": [
+                982,
+                13
+            ],
+            "bottom_right": [
+                1007,
+                41
+            ]
+        }
+    },
+    "祝贺": {
+        "image_path": "location\\zhuye\\祝贺.png",
+        "coordinates": {
+            "top_left": [
+                43,
+                632
+            ],
+            "bottom_right": [
+                154,
+                655
+            ]
+        }
+    },
+    "一键祝贺": {
+        "image_path": "location\\zhuye\\一键祝贺.png",
+        "coordinates": {
+            "top_left": [
+                913,
+                523
+            ],
+            "bottom_right": [
+                1021,
+                548
+            ]
+        }
+    },
+    "进阶按钮": {
+        "image_path": "location\\zhuye\\进阶按钮.png",
+        "coordinates": {
+            "top_left": [
+                1091,
+                645
+            ],
+            "bottom_right": [
+                1143,
+                682
+            ]
+        }
+    },
+    "升级位置": {
+        "image_path": "location\\zhuye\\升级位置.png",
+        "coordinates": {
+            "top_left": [
+                1210,
+                81
+            ],
+            "bottom_right": [
+                1244,
+                170
+            ]
+        }
+    },
+    "充值关闭的位置": {
+        "image_path": "location\\zhuye\\充值关闭的位置.png",
+        "coordinates": {
+            "top_left": [
+                1084,
+                152
+            ],
+            "bottom_right": [
+                1121,
+                189
+            ]
+        }
+    },
+    "小光点图片": {
+        "image_path": "location\\zhuye\\小光点图片.png",
+        "coordinates": {
+            "top_left": [
+                708,
+                48
+            ],
+            "bottom_right": [
+                744,
+                76
+            ]
+        }
+    },
+    "本周学分所在区域": {
+        "image_path": "location\\zhuye\\本周学分所在区域.png",
+        "coordinates": {
+            "top_left": [
+                610,
+                562
+            ],
+            "bottom_right": [
+                1198,
+                609
+            ]
+        }
+    },
+    "学分等级": {
+        "image_path": "location\\zhuye\\学分等级.png",
+        "coordinates": {
+            "top_left": [
+                979,
+                69
+            ],
+            "bottom_right": [
+                1139,
+                85
+            ]
+        }
+    },
+    "学分等级领取奖励区域": {
+        "image_path": "location\\zhuye\\学分等级领取奖励区域.png",
+        "coordinates": {
+            "top_left": [
+                585,
+                212
+            ],
+            "bottom_right": [
+                1096,
+                565
+            ]
+        }
+    },
+    "评级区域": {
+        "image_path": "location\\zhuye\\评级区域.png",
+        "coordinates": {
+            "top_left": [
+                1097,
+                276
+            ],
+            "bottom_right": [
+                1207,
+                380
+            ]
+        }
+    },
+    "评级提升": {
+        "image_path": "location\\zhuye\\评级提升.png",
+        "coordinates": {
+            "top_left": [
+                193,
+                322
+            ],
+            "bottom_right": [
+                342,
+                345
+            ]
+        }
+    },
+    "炼金研习社": {
+        "image_path": "location\\zhuye\\炼金研习社.png",
+        "coordinates": {
+            "top_left": [
+                350,
+                582
+            ],
+            "bottom_right": [
+                465,
+                606
+            ]
+        }
+    },
+    "评级晋升": {
+        "image_path": "location\\zhuye\\评级晋升.png",
+        "coordinates": {
+            "top_left": [
+                1073,
+                451
+            ],
+            "bottom_right": [
+                1132,
+                499
+            ]
+        }
+    },
+    "红色感叹号": {
+        "image_path": "location\\zhuye\\红色感叹号.png",
+        "coordinates": {
+            "top_left": [
+                1160,
+                398
+            ],
+            "bottom_right": [
+                1215,
+                444
+            ]
+        }
+    },
+    "矩阵空间": {
+        "image_path": "location\\zhuye\\矩阵空间.png",
+        "coordinates": {
+            "top_left": [
+                1018,
+                637
+            ],
+            "bottom_right": [
+                1122,
+                663
+            ]
+        }
+    },
+    "一键加入": {
+        "image_path": "location\\zhuye\\一键加入.png",
+        "coordinates": {
+            "top_left": [
+                835,
+                637
+            ],
+            "bottom_right": [
+                959,
+                668
+            ]
+        }
+    },
+    "评级证书数量获取区域": {
+        "image_path": "location\\zhuye\\评级证书数量获取区域.png",
+        "coordinates": {
+            "top_left": [
+                491,
+                412
+            ],
+            "bottom_right": [
+                752,
+                453
+            ]
+        }
+    },
+    "评级之证书获取区域": {
+        "image_path": "location\\zhuye\\评级之证书获取区域.png",
+        "coordinates": {
+            "top_left": [
+                763,
+                413
+            ],
+            "bottom_right": [
+                822,
+                449
+            ]
+        }
+    },
+    "证书获取前往": {
+        "image_path": "location\\zhuye\\证书获取前往.png",
+        "coordinates": {
+            "top_left": [
+                738,
+                351
+            ],
+            "bottom_right": [
+                820,
+                379
+            ]
+        }
+    },
+    "商店中拼争所在区域": {
+        "image_path": "location\\zhuye\\商店中拼争所在区域.png",
+        "coordinates": {
+            "top_left": [
+                245,
+                106
+            ],
+            "bottom_right": [
+                396,
+                272
+            ]
+        }
+    },
+    "点击购买凭证区域": {
+        "image_path": "location\\zhuye\\点击购买凭证区域.png",
+        "coordinates": {
+            "top_left": [
+                225,
+                293
+            ],
+            "bottom_right": [
+                406,
+                322
+            ]
+        }
+    },
+    "购买按钮": {
+        "image_path": "location\\zhuye\\购买按钮.png",
+        "coordinates": {
+            "top_left": [
+                790,
+                477
+            ],
+            "bottom_right": [
+                874,
+                502
+            ]
+        }
+    },
+    "主页充值入口": {
+        "image_path": "location\\zhuye\\主页充值入口.png",
+        "coordinates": {
+            "top_left": [
+                27,
+                440
+            ],
+            "bottom_right": [
+                52,
+                480
+            ]
+        }
+    },
+    "充值左边有点的区域": {
+        "image_path": "location\\zhuye\\充值左边有点的区域.png",
+        "coordinates": {
+            "top_left": [
+                3,
+                79
+            ],
+            "bottom_right": [
+                184,
+                537
+            ]
+        }
+    },
+    "充值右边可以点的区域": {
+        "image_path": "location\\zhuye\\充值右边可以点的区域.png",
+        "coordinates": {
+            "top_left": [
+                193,
+                82
+            ],
+            "bottom_right": [
+                1267,
+                700
+            ]
+        }
+    },
+    "主页赠礼位置": {
+        "image_path": "location\\zhuye\\主页赠礼位置.png",
+        "coordinates": {
+            "top_left": [
+                26,
+                285
+            ],
+            "bottom_right": [
+                56,
+                317
+            ]
+        }
+    },
+    "赠礼左边区域": {
+        "image_path": "location\\zhuye\\赠礼左边区域.png",
+        "coordinates": {
+            "top_left": [
+                2,
+                59
+            ],
+            "bottom_right": [
+                205,
+                587
+            ]
+        }
+    },
+    "赠礼右边区域": {
+        "image_path": "location\\zhuye\\赠礼右边区域.png",
+        "coordinates": {
+            "top_left": [
+                258,
+                38
+            ],
+            "bottom_right": [
+                1250,
+                655
+            ]
+        }
+    }
+}

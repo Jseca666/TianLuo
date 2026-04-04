@@ -1,0 +1,210 @@
+{
+    "绘梨衣": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\绘梨衣.png",
+        "coordinates": {
+            "top_left": [
+                137,
+                171
+            ],
+            "bottom_right": [
+                198,
+                224
+            ]
+        }
+    },
+    "路明非": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\路明非.png",
+        "coordinates": {
+            "top_left": [
+                198,
+                171
+            ],
+            "bottom_right": [
+                256,
+                224
+            ]
+        }
+    },
+    "诺顿": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\诺顿.png",
+        "coordinates": {
+            "top_left": [
+                82,
+                168
+            ],
+            "bottom_right": [
+                134,
+                223
+            ]
+        }
+    },
+    "凯撒": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\凯撒.png",
+        "coordinates": {
+            "top_left": [
+                20,
+                170
+            ],
+            "bottom_right": [
+                75,
+                225
+            ]
+        }
+    },
+    "路鸣泽": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\路鸣泽.png",
+        "coordinates": {
+            "top_left": [
+                141,
+                170
+            ],
+            "bottom_right": [
+                193,
+                225
+            ]
+        }
+    },
+    "楚子航": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\楚子航.png",
+        "coordinates": {
+            "top_left": [
+                19,
+                170
+            ],
+            "bottom_right": [
+                75,
+                224
+            ]
+        }
+    },
+    "诺玛": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\诺玛.png",
+        "coordinates": {
+            "top_left": [
+                201,
+                170
+            ],
+            "bottom_right": [
+                254,
+                224
+            ]
+        }
+    },
+    "康斯坦丁": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\康斯坦丁.png",
+        "coordinates": {
+            "top_left": [
+                200,
+                170
+            ],
+            "bottom_right": [
+                253,
+                223
+            ]
+        }
+    },
+    "苏恩馨": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\苏恩馨.png",
+        "coordinates": {
+            "top_left": [
+                20,
+                169
+            ],
+            "bottom_right": [
+                74,
+                224
+            ]
+        }
+    },
+    "酒德麻衣": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\酒德麻衣.png",
+        "coordinates": {
+            "top_left": [
+                140,
+                169
+            ],
+            "bottom_right": [
+                193,
+                224
+            ]
+        }
+    },
+    "零": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\零.png",
+        "coordinates": {
+            "top_left": [
+                80,
+                170
+            ],
+            "bottom_right": [
+                134,
+                225
+            ]
+        }
+    },
+    "源稚生": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\源稚生.png",
+        "coordinates": {
+            "top_left": [
+                18,
+                165
+            ],
+            "bottom_right": [
+                76,
+                228
+            ]
+        }
+    },
+    "源雉女": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\源雉女.png",
+        "coordinates": {
+            "top_left": [
+                81,
+                172
+            ],
+            "bottom_right": [
+                133,
+                223
+            ]
+        }
+    },
+    "上杉越": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\上杉越.png",
+        "coordinates": {
+            "top_left": [
+                140,
+                172
+            ],
+            "bottom_right": [
+                194,
+                223
+            ]
+        }
+    },
+    "陈墨童": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\陈墨童.png",
+        "coordinates": {
+            "top_left": [
+                139,
+                171
+            ],
+            "bottom_right": [
+                195,
+                225
+            ]
+        }
+    },
+    "夏弥": {
+        "image_path": "location\\Zhuangyuan\\baifangtouxiang\\夏弥.png",
+        "coordinates": {
+            "top_left": [
+                21,
+                168
+            ],
+            "bottom_right": [
+                73,
+                223
+            ]
+        }
+    }
+}

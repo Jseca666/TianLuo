@@ -1,0 +1,405 @@
+{
+    "世界狩猎位置（周日）": {
+        "image_path": "location\\tmp_AC\\世界狩猎位置（周日）.png",
+        "coordinates": {
+            "top_left": [
+                69,
+                104
+            ],
+            "bottom_right": [
+                359,
+                436
+            ]
+        }
+    },
+    "世界狩猎高级狩猎场复活中标志": {
+        "image_path": "location\\tmp_AC\\世界狩猎高级狩猎场复活中标志.png",
+        "coordinates": {
+            "top_left": [
+                178,
+                495
+            ],
+            "bottom_right": [
+                241,
+                550
+            ]
+        }
+    },
+    "世界狩猎狩猎次数剩余区域": {
+        "image_path": "location\\tmp_AC\\世界狩猎狩猎次数剩余区域.png",
+        "coordinates": {
+            "top_left": [
+                143,
+                636
+            ],
+            "bottom_right": [
+                230,
+                671
+            ]
+        }
+    },
+    "世界狩猎狩猎完成宝箱点击区域": {
+        "image_path": "location\\tmp_AC\\世界狩猎狩猎完成宝箱点击区域.png",
+        "coordinates": {
+            "top_left": [
+                698,
+                240
+            ],
+            "bottom_right": [
+                1039,
+                552
+            ]
+        }
+    },
+    "世界狩猎高级场罪渊龙蜥": {
+        "image_path": "location\\tmp_AC\\世界狩猎高级场罪渊龙蜥.png",
+        "coordinates": {
+            "top_left": [
+                115,
+                568
+            ],
+            "bottom_right": [
+                247,
+                601
+            ]
+        }
+    },
+    "世界狩猎高级场龙侍三代种": {
+        "image_path": "location\\tmp_AC\\世界狩猎高级场龙侍三代种.png",
+        "coordinates": {
+            "top_left": [
+                496,
+                494
+            ],
+            "bottom_right": [
+                639,
+                530
+            ]
+        }
+    },
+    "世界狩猎高级场深厄蝮龙": {
+        "image_path": "location\\tmp_AC\\世界狩猎高级场深厄蝮龙.png",
+        "coordinates": {
+            "top_left": [
+                822,
+                552
+            ],
+            "bottom_right": [
+                939,
+                587
+            ]
+        }
+    },
+    "世界狩猎地图中的罪渊龙蜥": {
+        "image_path": "location\\tmp_AC\\世界狩猎地图中的罪渊龙蜥.png",
+        "coordinates": {
+            "top_left": [
+                91,
+                148
+            ],
+            "bottom_right": [
+                198,
+                191
+            ]
+        }
+    },
+    "世界狩猎地图中的龙侍三代种": {
+        "image_path": "location\\tmp_AC\\世界狩猎地图中的龙侍三代种.png",
+        "coordinates": {
+            "top_left": [
+                91,
+                227
+            ],
+            "bottom_right": [
+                204,
+                266
+            ]
+        }
+    },
+    "世界狩猎地图中的深厄蝮龙": {
+        "image_path": "location\\tmp_AC\\世界狩猎地图中的深厄蝮龙.png",
+        "coordinates": {
+            "top_left": [
+                90,
+                306
+            ],
+            "bottom_right": [
+                195,
+                341
+            ]
+        }
+    },
+    "世界狩猎点开首领后的挑战": {
+        "image_path": "location\\tmp_AC\\世界狩猎点开首领后的挑战.png",
+        "coordinates": {
+            "top_left": [
+                856,
+                597
+            ],
+            "bottom_right": [
+                928,
+                635
+            ]
+        }
+    },
+    "自由一日挑战符号": {
+        "image_path": "location\\tmp_AC\\自由一日挑战符号.png",
+        "coordinates": {
+            "top_left": [
+                1203,
+                220
+            ],
+            "bottom_right": [
+                1252,
+                242
+            ]
+        }
+    },
+    "自由一日地图": {
+        "image_path": "location\\tmp_AC\\自由一日地图.png",
+        "coordinates": {
+            "top_left": [
+                19,
+                79
+            ],
+            "bottom_right": [
+                115,
+                184
+            ]
+        }
+    },
+    "自由一日点击地图后的立即前往": {
+        "image_path": "location\\tmp_AC\\自由一日点击地图后的立即前往.png",
+        "coordinates": {
+            "top_left": [
+                578,
+                548
+            ],
+            "bottom_right": [
+                695,
+                589
+            ]
+        }
+    },
+    "自由一日大地图选择一个外围广场": {
+        "image_path": "location\\tmp_AC\\自由一日大地图选择一个外围广场.png",
+        "coordinates": {
+            "top_left": [
+                1075,
+                247
+            ],
+            "bottom_right": [
+                1251,
+                327
+            ]
+        }
+    },
+    "自由一日左上角的大地图展开": {
+        "image_path": "location\\tmp_AC\\自由一日左上角的大地图展开.png",
+        "coordinates": {
+            "top_left": [
+                60,
+                10
+            ],
+            "bottom_right": [
+                178,
+                56
+            ]
+        }
+    },
+    "自由一日复活标志": {
+        "image_path": "location\\tmp_AC\\自由一日复活标志.png",
+        "coordinates": {
+            "top_left": [
+                519,
+                265
+            ],
+            "bottom_right": [
+                736,
+                485
+            ]
+        }
+    },
+    "自由一日社团占领成功后前往": {
+        "image_path": "location\\tmp_AC\\自由一日社团占领成功后前往.png",
+        "coordinates": {
+            "top_left": [
+                998,
+                648
+            ],
+            "bottom_right": [
+                1268,
+                691
+            ]
+        }
+    },
+    "自由一日活动结算": {
+        "image_path": "location\\tmp_AC\\自由一日活动结算.png",
+        "coordinates": {
+            "top_left": [
+                861,
+                595
+            ],
+            "bottom_right": [
+                1027,
+                639
+            ]
+        }
+    },
+    "自由一日拍卖行第一个示例商品有效信息范围": {
+        "image_path": "location\\tmp_AC\\自由一日拍卖行第一个示例商品有效信息范围.png",
+        "coordinates": {
+            "top_left": [
+                312,
+                166
+            ],
+            "bottom_right": [
+                1032,
+                230
+            ]
+        }
+    },
+    "拍卖行": {
+        "image_path": "location\\tmp_AC\\拍卖行.png",
+        "coordinates": {
+            "top_left": [
+                503,
+                459
+            ],
+            "bottom_right": [
+                790,
+                593
+            ]
+        }
+    },
+    "限时玩法进入位置": {
+        "image_path": "location\\tmp_AC\\限时玩法进入位置.png",
+        "coordinates": {
+            "top_left": [
+                1194,
+                405
+            ],
+            "bottom_right": [
+                1236,
+                485
+            ]
+        }
+    },
+    "世界狩猎罪渊龙蜥复活检测区域": {
+        "image_path": "location\\tmp_AC\\世界狩猎罪渊龙蜥复活检测区域.png",
+        "coordinates": {
+            "top_left": [
+                84,
+                381
+            ],
+            "bottom_right": [
+                346,
+                568
+            ]
+        }
+    },
+    "世界狩猎龙侍三代种复活检测区域": {
+        "image_path": "location\\tmp_AC\\世界狩猎龙侍三代种复活检测区域.png",
+        "coordinates": {
+            "top_left": [
+                540,
+                375
+            ],
+            "bottom_right": [
+                689,
+                492
+            ]
+        }
+    },
+    "世界狩猎深厄蝮龙复活检测区域": {
+        "image_path": "location\\tmp_AC\\世界狩猎深厄蝮龙复活检测区域.png",
+        "coordinates": {
+            "top_left": [
+                878,
+                441
+            ],
+            "bottom_right": [
+                1001,
+                548
+            ]
+        }
+    },
+    "世界狩猎前往狩猎": {
+        "image_path": "location\\tmp_AC\\世界狩猎前往狩猎.png",
+        "coordinates": {
+            "top_left": [
+                1089,
+                622
+            ],
+            "bottom_right": [
+                1244,
+                680
+            ]
+        }
+    },
+    "刷龙胜利": {
+        "image_path": "location\\NIBO\\刷龙胜利.png",
+        "coordinates": {
+            "top_left": [
+                1161,
+                561
+            ],
+            "bottom_right": [
+                1227,
+                622
+            ]
+        }
+    },
+    "点击空白处关闭": {
+        "image_path": "location\\NIBO\\点击空白处关闭.png",
+        "coordinates": {
+            "top_left": [
+                577,
+                601
+            ],
+            "bottom_right": [
+                701,
+                630
+            ]
+        }
+    },
+    "可拜访伙伴数量获取": {
+        "image_path": "location\\tmp_AC\\可拜访伙伴数量获取.png",
+        "coordinates": {
+            "top_left": [
+                18,
+                121
+            ],
+            "bottom_right": [
+                132,
+                150
+            ]
+        }
+    },
+    "普通狩猎场": {
+        "image_path": "location\\tmp_AC\\普通狩猎场.png",
+        "coordinates": {
+            "top_left": [
+                29,
+                147
+            ],
+            "bottom_right": [
+                158,
+                178
+            ]
+        }
+    },
+    "高级狩猎场": {
+        "image_path": "location\\tmp_AC\\高级狩猎场.png",
+        "coordinates": {
+            "top_left": [
+                28,
+                89
+            ],
+            "bottom_right": [
+                151,
+                118
+            ]
+        }
+    }
+}

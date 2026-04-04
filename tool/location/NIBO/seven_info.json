@@ -1,0 +1,860 @@
+{
+    "退出主页提醒": {
+        "image_path": "location\\NIBO\\退出主页提醒.png",
+        "coordinates": {
+            "top_left": [
+                380,
+                227
+            ],
+            "bottom_right": [
+                893,
+                485
+            ]
+        }
+    },
+    "取消退出": {
+        "image_path": "location\\NIBO\\取消退出.png",
+        "coordinates": {
+            "top_left": [
+                423,
+                410
+            ],
+            "bottom_right": [
+                610,
+                460
+            ]
+        }
+    },
+    "尼伯龙根": {
+        "image_path": "location\\NIBO\\尼伯龙根.png",
+        "coordinates": {
+            "top_left": [
+                932,
+                379
+            ],
+            "bottom_right": [
+                1109,
+                471
+            ]
+        }
+    },
+    "联合行动（获取七宗罪材料）": {
+        "image_path": "location\\NIBO\\联合行动（获取七宗罪材料）.png",
+        "coordinates": {
+            "top_left": [
+                162,
+                123
+            ],
+            "bottom_right": [
+                449,
+                248
+            ]
+        }
+    },
+    "寻找队伍-七宗罪": {
+        "image_path": "location\\NIBO\\寻找队伍-七宗罪.png",
+        "coordinates": {
+            "top_left": [
+                992,
+                635
+            ],
+            "bottom_right": [
+                1193,
+                700
+            ]
+        }
+    },
+    "刷新列表-七宗罪": {
+        "image_path": "location\\NIBO\\刷新列表-七宗罪.png",
+        "coordinates": {
+            "top_left": [
+                1085,
+                646
+            ],
+            "bottom_right": [
+                1234,
+                685
+            ]
+        }
+    },
+    "低阶龙侍": {
+        "image_path": "location\\NIBO\\低阶龙侍.png",
+        "coordinates": {
+            "top_left": [
+                574,
+                160
+            ],
+            "bottom_right": [
+                725,
+                201
+            ]
+        }
+    },
+    "加入队伍-七宗罪": {
+        "image_path": "location\\NIBO\\加入队伍-七宗罪.png",
+        "coordinates": {
+            "top_left": [
+                999,
+                162
+            ],
+            "bottom_right": [
+                1144,
+                201
+            ]
+        }
+    },
+    "侍龙之镣": {
+        "image_path": "location\\NIBO\\侍龙之镣.png",
+        "coordinates": {
+            "top_left": [
+                377,
+                84
+            ],
+            "bottom_right": [
+                497,
+                119
+            ]
+        }
+    },
+    "蝰龙之爪": {
+        "image_path": "location\\NIBO\\蝰龙之爪.png",
+        "coordinates": {
+            "top_left": [
+                532,
+                83
+            ],
+            "bottom_right": [
+                641,
+                117
+            ]
+        }
+    },
+    "蛇蝮之心": {
+        "image_path": "location\\NIBO\\蛇蝮之心.png",
+        "coordinates": {
+            "top_left": [
+                678,
+                85
+            ],
+            "bottom_right": [
+                789,
+                117
+            ]
+        }
+    },
+    "深渊之龙": {
+        "image_path": "location\\NIBO\\深渊之龙.png",
+        "coordinates": {
+            "top_left": [
+                830,
+                85
+            ],
+            "bottom_right": [
+                931,
+                117
+            ]
+        }
+    },
+    "等级选择": {
+        "image_path": "location\\NIBO\\等级选择.png",
+        "coordinates": {
+            "top_left": [
+                978,
+                83
+            ],
+            "bottom_right": [
+                1148,
+                124
+            ]
+        }
+    },
+    "金银铜滚轮区域": {
+        "image_path": "location\\NIBO\\金银铜滚轮区域.png",
+        "coordinates": {
+            "top_left": [
+                1015,
+                87
+            ],
+            "bottom_right": [
+                1152,
+                234
+            ]
+        }
+    },
+    "金所在区域": {
+        "image_path": "location\\NIBO\\金所在区域.png",
+        "coordinates": {
+            "top_left": [
+                1019,
+                207
+            ],
+            "bottom_right": [
+                1143,
+                235
+            ]
+        }
+    },
+    "铜所在区域": {
+        "image_path": "location\\NIBO\\铜所在区域.png",
+        "coordinates": {
+            "top_left": [
+                1032,
+                141
+            ],
+            "bottom_right": [
+                1135,
+                168
+            ]
+        }
+    },
+    "银所在区域": {
+        "image_path": "location\\NIBO\\银所在区域.png",
+        "coordinates": {
+            "top_left": [
+                1034,
+                176
+            ],
+            "bottom_right": [
+                1136,
+                201
+            ]
+        }
+    },
+    "准备": {
+        "image_path": "location\\NIBO\\准备.png",
+        "coordinates": {
+            "top_left": [
+                880,
+                642
+            ],
+            "bottom_right": [
+                1057,
+                688
+            ]
+        }
+    },
+    "点击空白处关闭": {
+        "image_path": "location\\NIBO\\点击空白处关闭.png",
+        "coordinates": {
+            "top_left": [
+                577,
+                601
+            ],
+            "bottom_right": [
+                701,
+                630
+            ]
+        }
+    },
+    "判断次数的区域": {
+        "image_path": "location\\NIBO\\判断次数的区域.png",
+        "coordinates": {
+            "top_left": [
+                1077,
+                607
+            ],
+            "bottom_right": [
+                1275,
+                628
+            ]
+        }
+    },
+    "战斗开始": {
+        "image_path": "location\\NIBO\\战斗开始.png",
+        "coordinates": {
+            "top_left": [
+                155,
+                372
+            ],
+            "bottom_right": [
+                1119,
+                410
+            ]
+        }
+    },
+    "刷龙胜利": {
+        "image_path": "location\\NIBO\\刷龙胜利.png",
+        "coordinates": {
+            "top_left": [
+                1161,
+                561
+            ],
+            "bottom_right": [
+                1227,
+                622
+            ]
+        }
+    },
+    "联合行动剩余次数区域": {
+        "image_path": "location\\NIBO\\联合行动剩余次数区域.png",
+        "coordinates": {
+            "top_left": [
+                1071,
+                601
+            ],
+            "bottom_right": [
+                1266,
+                630
+            ]
+        }
+    },
+    "尼伯龙根遗迹探险": {
+        "image_path": "location\\NIBO\\尼伯龙根遗迹探险.png",
+        "coordinates": {
+            "top_left": [
+                897,
+                236
+            ],
+            "bottom_right": [
+                1107,
+                293
+            ]
+        }
+    },
+    "遗迹探索可探索": {
+        "image_path": "location\\NIBO\\遗迹探索可探索.png",
+        "coordinates": {
+            "top_left": [
+                221,
+                130
+            ],
+            "bottom_right": [
+                295,
+                157
+            ]
+        }
+    },
+    "遗迹探索派遣伙伴": {
+        "image_path": "location\\NIBO\\遗迹探索派遣伙伴.png",
+        "coordinates": {
+            "top_left": [
+                331,
+                364
+            ],
+            "bottom_right": [
+                654,
+                403
+            ]
+        }
+    },
+    "派遣伙伴后的一件派遣": {
+        "image_path": "location\\NIBO\\派遣伙伴后的一件派遣.png",
+        "coordinates": {
+            "top_left": [
+                1017,
+                545
+            ],
+            "bottom_right": [
+                1244,
+                592
+            ]
+        }
+    },
+    "一件派遣后的攻击小队": {
+        "image_path": "location\\NIBO\\一件派遣后的攻击小队.png",
+        "coordinates": {
+            "top_left": [
+                780,
+                562
+            ],
+            "bottom_right": [
+                829,
+                627
+            ]
+        }
+    },
+    "遗迹探索小队出发": {
+        "image_path": "location\\NIBO\\遗迹探索小队出发.png",
+        "coordinates": {
+            "top_left": [
+                1013,
+                598
+            ],
+            "bottom_right": [
+                1244,
+                649
+            ]
+        }
+    },
+    "遗迹探索可挑战": {
+        "image_path": "location\\NIBO\\遗迹探索可挑战.png",
+        "coordinates": {
+            "top_left": [
+                233,
+                335
+            ],
+            "bottom_right": [
+                306,
+                370
+            ]
+        }
+    },
+    "遗迹探索挑战": {
+        "image_path": "location\\NIBO\\遗迹探索挑战.png",
+        "coordinates": {
+            "top_left": [
+                492,
+                360
+            ],
+            "bottom_right": [
+                658,
+                400
+            ]
+        }
+    },
+    "跳过战斗": {
+        "image_path": "location\\Zhuangyuan\\跳过战斗.png",
+        "coordinates": {
+            "top_left": [
+                1204,
+                23
+            ],
+            "bottom_right": [
+                1255,
+                73
+            ]
+        }
+    },
+    "轮回石廊": {
+        "image_path": "location\\NIBO\\轮回石廊.png",
+        "coordinates": {
+            "top_left": [
+                671,
+                386
+            ],
+            "bottom_right": [
+                877,
+                443
+            ]
+        }
+    },
+    "轮回石廊快速探索": {
+        "image_path": "location\\NIBO\\轮回石廊快速探索.png",
+        "coordinates": {
+            "top_left": [
+                879,
+                636
+            ],
+            "bottom_right": [
+                1005,
+                680
+            ]
+        }
+    },
+    "轮回石廊领取": {
+        "image_path": "location\\NIBO\\轮回石廊领取.png",
+        "coordinates": {
+            "top_left": [
+                1066,
+                638
+            ],
+            "bottom_right": [
+                1215,
+                681
+            ]
+        }
+    },
+    "轮回石廊挑战": {
+        "image_path": "location\\NIBO\\轮回石廊挑战.png",
+        "coordinates": {
+            "top_left": [
+                568,
+                501
+            ],
+            "bottom_right": [
+                711,
+                634
+            ]
+        }
+    },
+    "轮回石廊当前层数文字区域": {
+        "image_path": "location\\NIBO\\轮回石廊当前层数文字区域.png",
+        "coordinates": {
+            "top_left": [
+                545,
+                642
+            ],
+            "bottom_right": [
+                746,
+                683
+            ]
+        }
+    },
+    "轮回石廊快速探索钻石消耗区域": {
+        "image_path": "location\\NIBO\\轮回石廊快速探索钻石消耗区域.png",
+        "coordinates": {
+            "top_left": [
+                738,
+                404
+            ],
+            "bottom_right": [
+                857,
+                433
+            ]
+        }
+    },
+    "轮回石廊快速探索确定": {
+        "image_path": "location\\NIBO\\轮回石廊快速探索确定.png",
+        "coordinates": {
+            "top_left": [
+                691,
+                439
+            ],
+            "bottom_right": [
+                842,
+                479
+            ]
+        }
+    },
+    "轮回石廊快速探索出现区域": {
+        "image_path": "location\\NIBO\\轮回石廊快速探索出现区域.png",
+        "coordinates": {
+            "top_left": [
+                401,
+                224
+            ],
+            "bottom_right": [
+                539,
+                324
+            ]
+        }
+    },
+    "捕获轮回石廊剩余快速探索次数区域": {
+        "image_path": "location\\NIBO\\捕获轮回石廊剩余快速探索次数区域.png",
+        "coordinates": {
+            "top_left": [
+                404,
+                279
+            ],
+            "bottom_right": [
+                591,
+                325
+            ]
+        }
+    },
+    "轮回石廊下一关": {
+        "image_path": "location\\NIBO\\轮回石廊下一关.png",
+        "coordinates": {
+            "top_left": [
+                992,
+                572
+            ],
+            "bottom_right": [
+                1138,
+                612
+            ]
+        }
+    },
+    "轮回石廊返回": {
+        "image_path": "location\\NIBO\\轮回石廊返回.png",
+        "coordinates": {
+            "top_left": [
+                986,
+                570
+            ],
+            "bottom_right": [
+                1140,
+                613
+            ]
+        }
+    },
+    "轮回走廊战斗失败标志": {
+        "image_path": "location\\NIBO\\轮回走廊战斗失败标志.png",
+        "coordinates": {
+            "top_left": [
+                76,
+                502
+            ],
+            "bottom_right": [
+                179,
+                666
+            ]
+        }
+    },
+    "轮回走廊战斗失败标志（重试）": {
+        "image_path": "location\\NIBO\\轮回走廊战斗失败标志（重试）.png",
+        "coordinates": {
+            "top_left": [
+                989,
+                573
+            ],
+            "bottom_right": [
+                1139,
+                609
+            ]
+        }
+    },
+    "联合行动熔炼": {
+        "image_path": "location\\NIBO\\联合行动熔炼.png",
+        "coordinates": {
+            "top_left": [
+                808,
+                578
+            ],
+            "bottom_right": [
+                968,
+                620
+            ]
+        }
+    },
+    "联合行动炼成截图": {
+        "image_path": "location\\NIBO\\联合行动炼成截图.png",
+        "coordinates": {
+            "top_left": [
+                544,
+                259
+            ],
+            "bottom_right": [
+                740,
+                308
+            ]
+        }
+    },
+    "联合行动九宫格": {
+        "image_path": "location\\NIBO\\联合行动九宫格.png",
+        "coordinates": {
+            "top_left": [
+                22,
+                78
+            ],
+            "bottom_right": [
+                165,
+                242
+            ]
+        }
+    },
+    "遗迹小助手位置": {
+        "image_path": "location\\NIBO\\遗迹小助手位置.png",
+        "coordinates": {
+            "top_left": [
+                1206,
+                152
+            ],
+            "bottom_right": [
+                1270,
+                226
+            ]
+        }
+    },
+    "遗迹小助手一键执行": {
+        "image_path": "location\\NIBO\\遗迹小助手一键执行.png",
+        "coordinates": {
+            "top_left": [
+                253,
+                547
+            ],
+            "bottom_right": [
+                353,
+                574
+            ]
+        }
+    },
+    "学院试炼跳过": {
+        "image_path": "location\\NIBO\\学院试炼跳过.png",
+        "coordinates": {
+            "top_left": [
+                1203,
+                17
+            ],
+            "bottom_right": [
+                1267,
+                79
+            ]
+        }
+    },
+    "vivo渠道服特别的退出标志": {
+        "image_path": "location\\NIBO\\vivo渠道服特别的退出标志.png",
+        "coordinates": {
+            "top_left": [
+                689,
+                372
+            ],
+            "bottom_right": [
+                822,
+                420
+            ]
+        }
+    },
+    "轮回走廊文字区域2": {
+        "image_path": "location\\NIBO\\轮回走廊文字区域2.png",
+        "coordinates": {
+            "top_left": [
+                511,
+                626
+            ],
+            "bottom_right": [
+                768,
+                670
+            ]
+        }
+    },
+    "轮回石廊挑战2": {
+        "image_path": "location\\NIBO\\轮回石廊挑战2.png",
+        "coordinates": {
+            "top_left": [
+                579,
+                514
+            ],
+            "bottom_right": [
+                700,
+                622
+            ]
+        }
+    },
+    "轮回石廊快速探索2": {
+        "image_path": "location\\NIBO\\轮回石廊快速探索2.png",
+        "coordinates": {
+            "top_left": [
+                937,
+                650
+            ],
+            "bottom_right": [
+                1043,
+                686
+            ]
+        }
+    },
+    "轮回石廊领取2": {
+        "image_path": "location\\NIBO\\轮回石廊领取2.png",
+        "coordinates": {
+            "top_left": [
+                1131,
+                650
+            ],
+            "bottom_right": [
+                1210,
+                686
+            ]
+        }
+    },
+    "轮回石廊挑战3": {
+        "image_path": "location\\NIBO\\轮回石廊挑战3.png",
+        "coordinates": {
+            "top_left": [
+                602,
+                391
+            ],
+            "bottom_right": [
+                680,
+                441
+            ]
+        }
+    },
+    "mumu模拟器版本特别的退出标志": {
+        "image_path": "location\\NIBO\\mumu模拟器版本特别的退出标志.png",
+        "coordinates": {
+            "top_left": [
+                689,
+                481
+            ],
+            "bottom_right": [
+                934,
+                554
+            ]
+        }
+    },
+    "轮回石廊2": {
+        "image_path": "location\\NIBO\\轮回石廊2.png",
+        "coordinates": {
+            "top_left": [
+                921,
+                431
+            ],
+            "bottom_right": [
+                1008,
+                456
+            ]
+        }
+    },
+    "轮回石廊挑战4": {
+        "image_path": "location\\NIBO\\轮回石廊挑战4.png",
+        "coordinates": {
+            "top_left": [
+                612,
+                527
+            ],
+            "bottom_right": [
+                665,
+                583
+            ]
+        }
+    },
+    "尼伯龙根遗迹探险2": {
+        "image_path": "location\\NIBO\\尼伯龙根遗迹探险2.png",
+        "coordinates": {
+            "top_left": [
+                930,
+                276
+            ],
+            "bottom_right": [
+                1022,
+                300
+            ]
+        }
+    },
+    "联合行动2": {
+        "image_path": "location\\NIBO\\联合行动2.png",
+        "coordinates": {
+            "top_left": [
+                307,
+                159
+            ],
+            "bottom_right": [
+                378,
+                215
+            ]
+        }
+    },
+    "第二赛季熔炼": {
+        "image_path": "location\\NIBO\\第二赛季熔炼.png",
+        "coordinates": {
+            "top_left": [
+                715,
+                544
+            ],
+            "bottom_right": [
+                786,
+                580
+            ]
+        }
+    },
+    "第二赛季熔炼2次": {
+        "image_path": "location\\NIBO\\第二赛季熔炼2次.png",
+        "coordinates": {
+            "top_left": [
+                898,
+                541
+            ],
+            "bottom_right": [
+                992,
+                582
+            ]
+        }
+    },
+    "第二赛季寻找队伍": {
+        "image_path": "location\\NIBO\\第二赛季寻找队伍.png",
+        "coordinates": {
+            "top_left": [
+                1027,
+                640
+            ],
+            "bottom_right": [
+                1206,
+                694
+            ]
+        }
+    },
+    "第二赛季镰鼬女王": {
+        "image_path": "location\\NIBO\\第二赛季镰鼬女王.png",
+        "coordinates": {
+            "top_left": [
+                827,
+                87
+            ],
+            "bottom_right": [
+                926,
+                116
+            ]
+        }
+    }
+}
