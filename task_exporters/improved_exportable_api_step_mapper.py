@@ -1,0 +1,20 @@
+from .export_models import ExportedTaskStep
+
+
+class ImprovedExportableApiStepMapper:
+    def map(self, api_name: str, **params) -> ExportedTaskStep:
+        name = str(api_name).strip()
+
+        aliases = {
+            "tap": "tap_area",
+            "tap_template": "tap_locator",
+            "tap_image": "tap_locator",
+            "wait_locator": "wait_image",
+            "wait_template": "wait_image",
+            "exists_image": "exists",
+            "ocr_number": "ocr_int",
+            "ocr_digit": "ocr_int",
+        }
+        normalized = aliases.get(name, name)
+
+        return ExportedTaskStep(action=normalized, params=dict(params))
